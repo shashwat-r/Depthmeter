@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980.0" height="160.0" viewBox="-10.0 310.0 980.0 160.0" version="1.1">
+<rect x="-10.0" y="310.0" width="980.0" height="160.0" fill="rgb(11,19,30)"/>
+<g id="s320405765">
+<ellipse id="s320405765" cx="90.0" cy="390.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t320405765">
+<text x="79.5" y="393.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="21.0">idle</text>
+</g>
+</g>
+<g id="s248718682">
+<ellipse id="s248718682" cx="350.0" cy="390.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t248718682">
+<text x="334.5" y="393.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="31.0">main</text>
+</g>
+</g>
+<g id="s585401227">
+<ellipse id="s585401227" cx="610.0" cy="390.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t585401227">
+<text x="593.5" y="384.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="33.0">wave</text>
+<text x="573.5" y="403.1621" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="73.0">information</text>
+</g>
+</g>
+<g id="s65178728">
+<ellipse id="s65178728" cx="870.0" cy="390.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t65178728">
+<text x="842.5" y="393.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="55.0">generate</text>
+</g>
+</g>
+<g id="la783132801">
+<path id="s783132801" d="M 160.0,390.0 280.0,390.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t783132801">
+<text x="203.0" y="362.12988" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="34.0">show</text>
+<text x="208.5" y="380.70996" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="23.0">GUI</text>
+</g>
+</g>
+<g id="la504249638">
+<path id="s504249638" d="M 420.0,390.0 540.0,390.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t504249638">
+<text x="447.5" y="362.12988" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="65.0">frequency,</text>
+<text x="448.5" y="380.70996" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="63.0">wave type</text>
+</g>
+</g>
+<g id="la336973159">
+<path id="s336973159" d="M 680.0,390.0 800.0,390.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t336973159">
+<text x="716.5" y="362.12988" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="47.0">request</text>
+<text x="711.0" y="380.70996" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="58.0">for signal</text>
+</g>
+</g>
+</svg>
