@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1140.0" height="532.0" viewBox="30.0 77.0 1140.0 532.0" version="1.1">
+<rect x="30.0" y="77.0" width="1140.0" height="532.0" fill="rgb(11,19,30)"/>
+<g id="s145781541">
+<ellipse id="s145781541" cx="130.0" cy="350.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t145781541">
+<text x="119.5" y="353.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="21.0">idle</text>
+</g>
+</g>
+<g id="s701791482">
+<ellipse id="s701791482" cx="290.0" cy="190.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t701791482">
+<text x="244.0" y="193.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="92.0">Authentication</text>
+</g>
+</g>
+<g id="s820613803">
+<ellipse id="s820613803" cx="550.0" cy="190.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t820613803">
+<text x="531.0" y="193.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="38.0">Active</text>
+</g>
+</g>
+<g id="s426097928">
+<ellipse id="s426097928" cx="810.0" cy="190.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t426097928">
+<text x="778.0" y="184.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="64.0">Displaying</text>
+<text x="795.0" y="203.16211" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+</g>
+</g>
+<g id="s203037857">
+<ellipse id="s203037857" cx="1070.0" cy="190.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t203037857">
+<text x="1047.5" y="184.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="45.0">Storing</text>
+<text x="1055.0" y="203.16211" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+</g>
+</g>
+<g id="s559771334">
+<ellipse id="s559771334" cx="290.0" cy="510.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t559771334">
+<text x="244.0" y="513.8721" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="92.0">Authenticating</text>
+</g>
+</g>
+<g id="s531410567">
+<ellipse id="s531410567" cx="550.0" cy="510.0" rx="70.0" ry="50.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t531410567">
+<text x="528.0" y="504.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="44.0">Access</text>
+<text x="504.5" y="523.1621" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="91.0">User Database</text>
+</g>
+</g>
+<g id="g488481204">
+<ellipse id="s840622557" cx="1070.0" cy="370.0" rx="30.0" ry="30.0" fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<ellipse id="s338800978" cx="1070.0" cy="370.0" rx="18.75" ry="18.75" fill="rgb(221,116,11)" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t488481204">
+<text x="1050.0" y="418.58008" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="40.0">Circuit</text>
+</g>
+</g>
+<g id="la882617379">
+<path id="s882617379" d=" M156.78786,303.80603  C121.536446,253.72386 153.84981,189.49391 220.0,190.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s449652000" d="M 210.76302,197.66017 220.0,190.0 210.8813,182.1994 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t882617379">
+<text x="135.36833" y="227.9324" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">login</text>
+</g>
+</g>
+<g id="la23641817">
+<path id="s23641817" d=" M290.0,240.0  C287.3731,266.86072 268.34604,297.5598 179.4975,314.64468 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s949325982" d="M 187.05069,305.32004 179.4975,314.64468 189.97028,320.50308 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t23641817">
+<text x="226.08188" y="280.98828" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="82.0">unsuccessful</text>
+</g>
+</g>
+<g id="la569567103">
+<path id="s569567103" d=" M339.4975,154.64467  C398.73572,123.46781 448.70218,132.44127 500.5025,154.64467 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s36664140" d="M 489.02106,158.13419 500.5025,154.64467 495.1123,143.9234 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t569567103">
+<text x="389.78918" y="125.337036" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="66.0">successful</text>
+</g>
+</g>
+<g id="la471691157">
+<path id="s471691157" d=" M500.50253,225.35535  C449.1925,313.53604 272.24283,334.80408 194.67159,330.86584 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s314972330" d="M 204.22986,323.61053 194.67159,330.86584 203.4459,339.05188 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t471691157">
+<text x="337.43503" y="303.36517" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="40.0">logout</text>
+</g>
+</g>
+<g id="la391675035">
+<path id="s391675035" d=" M599.4975,154.64467  C643.00275,125.79371 713.0656,131.12271 760.5025,154.64467 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s562460728" d="M 748.8455,157.49327 760.5025,154.64467 755.71405,143.64146 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t391675035">
+<text x="655.02563" y="107.134705" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="47.0">request</text>
+<text x="664.02563" y="125.71478" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="29.0">data</text>
+</g>
+</g>
+<g id="la842166289">
+<path id="s842166289" d=" M760.5025,225.35535  C710.5215,250.93417 644.0514,256.0145 599.4975,225.35535 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s1002771830" d="M 611.44073,224.18982 599.4975,225.35535 602.676,236.92673 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t842166289">
+<text x="661.96484" y="218.57446" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="32.0">fetch</text>
+<text x="663.46484" y="237.15454" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="29.0">data</text>
+</g>
+</g>
+<g id="la246957943">
+<path id="s246957943" d=" M1020.5025,154.64467  C973.12256,131.28252 907.08167,133.34686 859.4975,154.64467 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s658956260" d="M 864.7166,143.83907 859.4975,154.64467 871.03296,157.95123 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t246957943">
+<text x="921.5766" y="110.02707" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="37.0">throw</text>
+<text x="925.5766" y="128.60715" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="29.0">data</text>
+</g>
+</g>
+<g id="la532479053">
+<path id="s532479053" d=" M156.78784,396.19397  C108.4425,456.45883 156.86638,539.9903 225.32843,529.13416 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s149230338" d="M 217.47432,538.2068 225.32843,529.13416 215.05286,522.93634 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t532479053">
+<text x="127.75537" y="480.04443" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="39.0">admin</text>
+<text x="132.25537" y="498.6245" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">login</text>
+</g>
+</g>
+<g id="la182445075">
+<path id="s182445075" d=" M339.49747,545.35535  C393.57278,579.0219 449.82925,578.91974 500.50253,545.35535 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s310646352" d="M 497.11972,556.86865 500.50253,545.35535 488.58176,543.97864 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t182445075">
+<text x="388.27576" y="561.2769" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="66.0">successful</text>
+</g>
+</g>
+<g id="la854200393">
+<path id="s854200393" d=" M576.78784,463.80603  C632.63196,384.5114 708.0195,522.5456 614.6716,529.13416 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s538271054" d="M 623.2826,520.77655 614.6716,529.13416 624.37115,536.1994 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t854200393">
+<text x="659.6767" y="464.26392" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="43.0">modify</text>
+<text x="651.6767" y="482.844" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="59.0">database</text>
+</g>
+</g>
+<g id="la601534063">
+<path id="s601534063" d=" M500.5025,474.64465  C430.66034,339.29196 298.40164,387.65454 194.67157,369.1342 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s1042040700" d="M 205.06555,363.13712 194.67157,369.1342 202.34802,378.35764 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t601534063">
+<text x="340.295" y="368.78726" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="40.0">logout</text>
+</g>
+</g>
+<g id="la364537861">
+<path id="s364537861" d=" M290.0,460.0  C284.1544,426.94534 283.74203,406.83365 179.49747,385.35535 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s82706522" d="M 190.04678,379.6359 179.49747,385.35535 186.92673,394.77905 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t364537861">
+<text x="230.64835" y="418.33655" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="82.0">unsuccessful</text>
+</g>
+</g>
+<g id="la1024311947">
+<path id="s1024311947" d="M 1070.0,340.0 1070.0,240.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s849633128" d="M 1077.7306,249.1781 1070.0,240.0 1062.2694,249.1781 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t1024311947">
+<text x="1055.0" y="280.70996" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+<text x="1028.0" y="299.29004" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="84.0">Transmission</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="780.0" height="951.0" viewBox="-190.0 90.0 780.0 951.0" version="1.1">
+<defs>
+<pattern id="poweredby_logo" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" preserveAspectRatio="none" width="1" height="1">
+<image x="0" y="0" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,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"/>
+</pattern>
+</defs>
+<rect x="-190.0" y="90.0" width="780.0" height="951.0" fill="rgb(11,19,30)"/>
+<g id="g345673652" transform="rotate(90,500.000000,200.000000)">
+<polygon id="s1069485758" points="460.0,180.0 539.9999,180.0 540.0,219.99998 460.0,220.0 " fill="none"/>
+<g id="t345673652">
+<text x="486.0" y="203.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="28.0">User</text>
+</g>
+</g>
+<g id="g919615453" transform="rotate(90,500.000000,300.000000)">
+<polygon id="s1070291743" points="460.0,280.0 540.0,280.0 540.0,319.99997 460.0,320.0 " fill="none"/>
+<g id="t919615453">
+<text x="480.0" y="303.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="40.0">Admin</text>
+</g>
+</g>
+<g id="g429608786" transform="rotate(90,500.000061,410.000000)">
+<polygon id="s944991852" points="440.00003,380.0 560.00006,380.0 559.99994,439.9999 440.00003,440.0 " fill="none"/>
+<g id="t429608786">
+<text x="478.00006" y="395.292" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="44.0">Service</text>
+<text x="454.00006" y="413.87207" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="92.0">Authentication</text>
+<text x="471.50006" y="432.45215" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="57.0">Software</text>
+</g>
+</g>
+<g id="g616034851" transform="rotate(90,510.000061,669.999939)">
+<polygon id="s984816693" points="459.99997,640.0 560.0001,640.0 560.0,699.9999 459.99997,699.9999 " fill="none"/>
+<g id="t616034851">
+<text x="479.00006" y="664.582" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="62.0">Measured</text>
+<text x="483.00006" y="683.16205" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="54.0">Distance</text>
+</g>
+</g>
+<g id="g405467936" transform="rotate(90,510.000153,780.000061)">
+<polygon id="s383342794" points="460.0,740.0 560.0003,740.0 560.0002,820.0001 460.0,820.0001 " fill="none"/>
+<g id="t405467936">
+<text x="487.50015" y="774.5821" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="45.0">TCP/IP</text>
+<text x="483.50015" y="793.1622" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="53.0">Protocol</text>
+</g>
+</g>
+<g id="g186479833" transform="rotate(90,500.000061,880.000000)">
+<polygon id="s701794875" points="459.99997,860.0 540.0,860.0 540.0001,899.99994 459.99997,899.99976 " fill="none"/>
+<g id="t186479833">
+<text x="480.00006" y="883.8721" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="40.0">Circuit</text>
+</g>
+</g>
+<g id="g771427998" transform="rotate(90,509.999878,539.999939)">
+<polygon id="s910099800" points="460.00003,519.9999 559.99976,519.9999 559.99976,560.0 460.00003,560.0 " fill="none"/>
+<g id="t771427998">
+<text x="495.99988" y="534.582" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="28.0">User</text>
+<text x="479.99988" y="553.16205" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="60.0">Database</text>
+</g>
+</g>
+<g id="g1049464191" transform="rotate(90,400.000000,140.000000)">
+<polygon id="s109463217" points="360.0,120.0 440.0,120.0 440.0,160.0 360.0,160.0 " fill="none"/>
+<g id="t1049464191">
+<text x="379.5" y="134.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="41.0">Login/</text>
+<text x="377.5" y="153.16211" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="45.0">Logout</text>
+</g>
+</g>
+<g id="g849092940" transform="rotate(90,280.000000,140.000000)">
+<polygon id="s245118870" points="240.0,120.0 320.0,120.0 320.0,160.0 240.0,160.0 " fill="none"/>
+<g id="t849092940">
+<text x="254.5" y="134.58203" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="51.0">Manage</text>
+<text x="262.5" y="153.16211" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="35.0">Users</text>
+</g>
+</g>
+<g id="g728204693" transform="rotate(90,159.999985,140.000015)">
+<polygon id="s628592407" points="119.99999,120.00002 199.99997,120.00002 199.99997,160.0 119.99999,160.0 " fill="none"/>
+<g id="t728204693">
+<text x="137.99998" y="134.58205" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="44.0">Access</text>
+<text x="144.99998" y="153.16212" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+</g>
+</g>
+<g id="g738555562" transform="rotate(90,20.000000,139.999985)">
+<polygon id="s608902916" points="-39.999992,120.00001 80.0,120.00001 80.0,159.99997 -40.0,159.99997 " fill="none"/>
+<g id="t738555562">
+<text x="5.0" y="134.58202" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+<text x="-22.0" y="153.1621" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="84.0">Transmission</text>
+</g>
+</g>
+<g id="g435651227" transform="rotate(90,-100.000000,139.999954)">
+<polygon id="s411540717" points="-160.0,120.0 -40.0,120.0 -40.0,159.99991 -160.0,159.99991 " fill="none"/>
+<g id="t435651227">
+<text x="-115.0" y="134.58199" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="30.0">Data</text>
+<text x="-143.0" y="153.16206" font-family="Helvetica" fill="rgb(229,255,255)" font-size="14" textLength="86.0">Measurement</text>
+</g>
+</g>
+<g id="s386926136">
+<polygon id="s386926136" points="340.0,200.0 460.0,200.0 459.99976,219.99998 340.0,220.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t386926136"/>
+</g>
+<g id="s990373393">
+<polygon id="s990373393" points="360.0,400.0 439.99997,400.0 440.0,420.0 360.0,420.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t990373393"/>
+</g>
+<g id="s211571574">
+<polygon id="s211571574" points="219.99998,280.0 340.0,280.0 340.0,300.0 219.99998,299.99982 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t211571574"/>
+</g>
+<g id="s54635895">
+<polygon id="s54635895" points="240.0,400.0 320.00006,400.0 320.00006,419.99997 240.0,420.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t54635895"/>
+</g>
+<g id="s115035620">
+<polygon id="s115035620" points="260.0,540.0 300.0,540.0 300.0,560.0 260.0,560.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t115035620"/>
+</g>
+<g id="s527684173">
+<polygon id="s527684173" points="99.99999,200.0 219.99991,200.0 219.99994,220.0 99.99999,219.99976 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t527684173"/>
+</g>
+<g id="s586297602">
+<polygon id="s586297602" points="120.00001,400.0 200.00003,400.0 199.99997,420.0 120.00001,419.99997 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t586297602"/>
+</g>
+<g id="s362392083">
+<polygon id="s362392083" points="140.0,660.0 180.00003,660.0 179.99988,680.0 140.0,680.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t362392083"/>
+</g>
+<g id="s569467984">
+<polygon id="s569467984" points="1.5258789E-5,860.0 119.99997,860.0 120.00003,879.99994 1.5258789E-5,880.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t569467984"/>
+</g>
+<g id="s641222217">
+<polygon id="s641222217" points="7.6293945E-6,800.0 80.000015,800.0 79.99998,820.0 7.6293945E-6,820.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t641222217"/>
+</g>
+<g id="s282483534">
+<polygon id="s282483534" points="1.5258789E-5,740.0 40.000008,740.0 40.000015,759.9999 1.5258789E-5,760.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t282483534"/>
+</g>
+<g id="s661312623">
+<polygon id="s661312623" points="-140.0,860.0 -20.0,860.0 -20.000072,880.0 -140.0,880.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t661312623"/>
+</g>
+<g id="la303068540">
+<path id="s303068540" d="M 439.99988,219.99998 439.99997,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s266090274" d="M 432.26935,390.8219 439.99997,400.0 447.7306,390.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t303068540"/>
+</g>
+<g id="la246808069">
+<path id="s246808069" d="M 359.99988,220.0 360.0,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s534513075" d="M 367.7305,229.1781 359.99988,220.0 352.2693,229.17812 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t246808069"/>
+</g>
+<g id="la868277850">
+<path id="s868277850" d="M 320.0,299.99997 320.00006,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s903686000" d="M 312.26944,390.8219 320.00006,400.0 327.73065,390.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t868277850"/>
+</g>
+<g id="la544884875">
+<path id="s544884875" d="M 240.0,299.99985 240.0,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s30284521" d="M 247.7306,309.17795 240.0,299.99985 232.2694,309.17795 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t544884875"/>
+</g>
+<g id="la1017998696">
+<path id="s1017998696" d="M 300.00003,420.0 300.0,540.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s170566510" d="M 292.26938,530.8219 300.0,540.0 307.73062,530.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t1017998696"/>
+</g>
+<g id="la865957249">
+<path id="s865957249" d="M 260.00003,420.0 260.0,540.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s654789135" d="M 267.73065,429.1781 260.00003,420.0 252.26941,429.1781 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t865957249"/>
+</g>
+<g id="la379487782">
+<path id="s379487782" d="M 179.99998,420.0 180.00003,660.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s759515804" d="M 172.26941,650.8219 180.00003,660.0 187.73064,650.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t379487782"/>
+</g>
+<g id="la365093479">
+<path id="s365093479" d="M 119.99997,219.9998 120.00001,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s870612133" d="M 127.73058,229.1779 119.99997,219.9998 112.26936,229.17792 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t365093479"/>
+</g>
+<g id="la664795156">
+<path id="s664795156" d="M 199.99997,219.99995 200.00003,400.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s48334970" d="M 192.26941,390.8219 200.00003,400.0 207.73064,390.8219 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t664795156"/>
+</g>
+<g id="la271247549">
+<path id="s271247549" d="M 139.99998,419.99997 140.0,660.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s972585003" d="M 147.73059,429.17807 139.99998,419.99997 132.26938,429.17807 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t271247549"/>
+</g>
+<g id="la878501554">
+<path id="s878501554" d="M 79.99999,860.0 79.99998,820.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s1068135560" d="M 87.73059,829.1781 79.99998,820.0 72.26937,829.1781 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t878501554"/>
+</g>
+<g id="la118570499">
+<path id="s118570499" d="M 40.000008,800.0 40.00003,759.99994 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s876953121" d="M 47.730637,769.17804 40.00003,759.99994 32.269413,769.17804 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t118570499"/>
+</g>
+<g id="la1015972224">
+<path id="s1015972224" d=" M-40.00003,880.0  C-26.165466,961.1252 -136.83179,951.79364 -120.00004,880.0 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<path id="s149926470" d="M -114.568474,890.7004 -120.00004,880.0 -129.62154,887.17126 " fill="none" stroke-width="2.0" stroke="rgb(221,116,11)"/>
+<g id="t1015972224"/>
+</g>
+<g id="s1048865799">
+<polygon id="s1048865799" points="390.0,991.0 590.0,991.0 590.0,1041.0 390.0,1041.0 " fill="url(#poweredby_logo)"/>
+</g>
+</svg>
