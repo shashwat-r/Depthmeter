@@ -1,1 +1,18 @@
 
+We tested the arduino and found out that the errors 
+come out to be of the order of about .3 cms in the 
+process of measurement of distances with .
+3.0 cm - 2.3 cm - N
+6.0 cm - 5.7 cm - Y
+7.0 cm - 7.1 cm - Y
+10.0 cm - 10.2 cm - Y
+15.0 cm - 14.8 cm - Y
+25.0 cm - 25.0 cm - Y
+30.0 cm - 29.8 cm - Y
+40.0 cm - 39.8 cm - Y
+50.0 cm - 50.3 cm - Y
+60.0 cm - 60.7 cm - N
+80.0 cm - 80.3 cm - Y
+100.0 cm - 100.4 cm -N 
+In the tested range, our device seems works with acceptable 
+outputs.
