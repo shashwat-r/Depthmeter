@@ -1,7 +1,11 @@
 
 We tested the arduino and found out that the errors 
 come out to be of the order of about .3 cms in the 
-process of measurement of distances with .
+process of measurement of distances with the ultrasonic
+sensor.
+
+input - output - acceptable
+
 3.0 cm - 2.3 cm - N
 6.0 cm - 5.7 cm - Y
 7.0 cm - 7.1 cm - Y
@@ -14,5 +18,6 @@ process of measurement of distances with .
 60.0 cm - 60.7 cm - N
 80.0 cm - 80.3 cm - Y
 100.0 cm - 100.4 cm -N 
+
 In the tested range, our device seems works with acceptable 
 outputs.
