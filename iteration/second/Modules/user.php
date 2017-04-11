@@ -145,6 +145,9 @@ $error_flag = false;
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li style="margin-left:20px;"><a href="#">Home</a></li>
+        <li style="margin-left:20px;"><a href="view.php">View user</a></li>
+        <li style="margin-left:20px;"><a href="add.php">Add user</a></li>
+        <li style="margin-left:20px;"><a href="remove.php">Remove user</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -247,8 +250,7 @@ var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("s
       </div>
 
 </div>
-
-
+    
     <br>
     <br>
     <!-- Page Content -->

@@ -138,13 +138,16 @@ $error_flag = false;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#" style="font-size:175%;">Group 007</a>
+      <a class="navbar-brand" href="user.php" style="font-size:175%;">Group 007</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li style="margin-left:20px;"><a href="#">Home</a></li>
+        <li style="margin-left:20px;"><a href="user.php">Home</a></li>
+        <li style="margin-left:20px;"><a href="view.php">View user</a></li>
+        <li style="margin-left:20px;"><a href="add.php">Add user</a></li>
+        <li style="margin-left:20px;"><a href="remove.php">Remove user</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -192,7 +195,7 @@ $error_flag = false;
         <!-- /.container -->
     </nav>
     <div class="table-title">
-<h3 style="color:Black">Data Table</h3>
+<h3 style="color:Black">Current Users</h3>
 </div>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
     <form action="#" method="post">
@@ -205,20 +208,18 @@ $error_flag = false;
     document.getElementById('dawg').value = pusswd;
 </script>
 </form>
-<script>
-var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("slow"); }, 1000);
-</script>
+
 <div class="container">
   <div class="row">
         <table class="table table-fixed">
           <thead>
             <tr>
-              <th class="col-xs-2">Id</th><th class="col-xs-6">Time</th><th class="col-xs-4">Water Level</th>
+              <th class="col-xs-2">Admin</th><th class="col-xs-6">Username</th><th class="col-xs-4">Password</th>
             </tr>
           </thead>
           <tbody>
             <?php 
-    $query = "SELECT * FROM Water_Level order by Time_Stamp desc";
+    $query = "SELECT * FROM Users order by Username desc";
     $res=mysql_query($query);
 
     if(!$res)
@@ -231,7 +232,7 @@ var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("s
 
     ?>
             <tr>
-              <td class="col-xs-2"><?php echo $rows['Id'] ?></td><td class="col-xs-6"><?php echo $rows['Time_Stamp'] ?></td><td class="col-xs-4"><?php echo $rows['Level'] ?> cm</td>
+              <td class="col-xs-2"><?php if($rows['Admin']==1) echo Yes; else echo No;  ?></td><td class="col-xs-6"><?php echo $rows['Username'] ?></td><td class="col-xs-4"><?php echo $rows['Password'] ?></td>
             </tr>
             <?php
 
@@ -247,8 +248,7 @@ var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("s
       </div>
 
 </div>
-
-
+    
     <br>
     <br>
     <!-- Page Content -->

@@ -25,9 +25,6 @@ $error_flag = false;
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Heroic Features - Start Bootstrap Template</title>
-
     
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -107,7 +104,7 @@ $error_flag = false;
   width: 100%;
 }
 .table-fixed tbody {
-  height: 420px;
+  height: 230px;
   overflow-y: auto;
   width: 100%;
 }
@@ -138,13 +135,16 @@ $error_flag = false;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#" style="font-size:175%;">Group 007</a>
+      <a class="navbar-brand" href="user.php" style="font-size:175%;">Group 007</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li style="margin-left:20px;"><a href="#">Home</a></li>
+        <li style="margin-left:20px;"><a href="user.php">Home</a></li>
+        <li style="margin-left:20px;"><a href="view.php">View user</a></li>
+        <li style="margin-left:20px;"><a href="#">Add user</a></li>
+        <li style="margin-left:20px;"><a href="remove.php">Remove user</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -189,66 +189,30 @@ $error_flag = false;
                 
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
-        <!-- /.container -->
+    <br>
+    <br>    <!-- /.container -->
     </nav>
-    <div class="table-title">
-<h3 style="color:Black">Data Table</h3>
-</div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-    <form action="#" method="post">
-    <input type="hidden" id="yo" name="username">
-    <input type="hidden" id="dawg" name="password">
-<script type="text/javascript">
-    var unaam = " <?php echo $_POST['username'] ?> ";
-    var pusswd= "<?php echo $_POST['password'] ?>";
-    document.getElementById('yo').value = unaam;
-    document.getElementById('dawg').value = pusswd;
-</script>
+    <form class="" action="register.php" method="post">
+  <div class="form-group">
+    <label for="username">Username:</label>
+    <input type="text" class="form-control" id="username" name="username">
+  </div>
+  <div class="form-group">
+    <label for="password">Password:</label>
+    <input type="password" class="form-control" id="password" name="password">
+  </div>
+  <div class="checkbox">
+    <label><input type="checkbox" name="admin" value="1"> Admin</label>
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
 </form>
-<script>
-var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("slow"); }, 1000);
-</script>
-<div class="container">
-  <div class="row">
-        <table class="table table-fixed">
-          <thead>
-            <tr>
-              <th class="col-xs-2">Id</th><th class="col-xs-6">Time</th><th class="col-xs-4">Water Level</th>
-            </tr>
-          </thead>
-          <tbody>
             <?php 
-    $query = "SELECT * FROM Water_Level order by Time_Stamp desc";
-    $res=mysql_query($query);
-
-    if(!$res)
-        die ("Query error $query: " . mysql_error());
-
-    else
-    {
-        while($rows=mysql_fetch_array($res))
-        {
-
+    }
     ?>
-            <tr>
-              <td class="col-xs-2"><?php echo $rows['Id'] ?></td><td class="col-xs-6"><?php echo $rows['Time_Stamp'] ?></td><td class="col-xs-4"><?php echo $rows['Level'] ?> cm</td>
-            </tr>
-            <?php
-
-        } 
+            
+            
     
-    }
-    }
-    ?>
-            
-            
-          </tbody>
-        </table>
-      </div>
-
-</div>
-
-
+    
     <br>
     <br>
     <!-- Page Content -->
@@ -290,11 +254,7 @@ if(isset($_GET['wrong'])) {
     <script src="js/index.js"></script>
 
 
-<script type="text/javascript">
-  setTimeout(function(){
-    location = ''
-  },10000)
-</script>
+
 </body>
 
 </html>

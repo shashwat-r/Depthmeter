@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+
 session_start();
 require_once("config.php");
 
@@ -25,9 +26,6 @@ $error_flag = false;
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>Heroic Features - Start Bootstrap Template</title>
-
     
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -107,7 +105,7 @@ $error_flag = false;
   width: 100%;
 }
 .table-fixed tbody {
-  height: 420px;
+  height: 230px;
   overflow-y: auto;
   width: 100%;
 }
@@ -138,13 +136,16 @@ $error_flag = false;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#" style="font-size:175%;">Group 007</a>
+      <a class="navbar-brand" href="user.php" style="font-size:175%;">Group 007</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li style="margin-left:20px;"><a href="#">Home</a></li>
+        <li style="margin-left:20px;"><a href="user.php">Home</a></li>
+        <li style="margin-left:20px;"><a href="view.php">View user</a></li>
+        <li style="margin-left:20px;"><a href="add.php">Add user</a></li>
+        <li style="margin-left:20px;"><a href="#">Remove user</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Info<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -173,7 +174,6 @@ $error_flag = false;
                
                
                 <?php
-
                 //hello part dropdown
 
                 if(isset($_SESSION['username'])){ ?>
@@ -189,66 +189,31 @@ $error_flag = false;
                 
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
-        <!-- /.container -->
+    <br>
+    <br>    <!-- /.container -->
     </nav>
-    <div class="table-title">
-<h3 style="color:Black">Data Table</h3>
-</div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-    <form action="#" method="post">
+    <form class="" action="deregister.php" method="post">
     <input type="hidden" id="yo" name="username">
     <input type="hidden" id="dawg" name="password">
 <script type="text/javascript">
-    var unaam = " <?php echo $_POST['username'] ?> ";
+    var unaam = " <?php echo $_SESSION['username'] ?> ";
     var pusswd= "<?php echo $_POST['password'] ?>";
     document.getElementById('yo').value = unaam;
     document.getElementById('dawg').value = pusswd;
 </script>
+  <div class="form-group">
+    <label for="username1">Enter username to be removed:</label>
+    <input type="text" class="form-control" id="username" name="username1">
+  </div>
+  <button type="submit" class="btn btn-default">Remove</button>
 </form>
-<script>
-var auto_refresh = setInterval( function() { $('.table-fill').reload().fadeIn("slow"); }, 1000);
-</script>
-<div class="container">
-  <div class="row">
-        <table class="table table-fixed">
-          <thead>
-            <tr>
-              <th class="col-xs-2">Id</th><th class="col-xs-6">Time</th><th class="col-xs-4">Water Level</th>
-            </tr>
-          </thead>
-          <tbody>
             <?php 
-    $query = "SELECT * FROM Water_Level order by Time_Stamp desc";
-    $res=mysql_query($query);
-
-    if(!$res)
-        die ("Query error $query: " . mysql_error());
-
-    else
-    {
-        while($rows=mysql_fetch_array($res))
-        {
-
+    }
     ?>
-            <tr>
-              <td class="col-xs-2"><?php echo $rows['Id'] ?></td><td class="col-xs-6"><?php echo $rows['Time_Stamp'] ?></td><td class="col-xs-4"><?php echo $rows['Level'] ?> cm</td>
-            </tr>
-            <?php
-
-        } 
+            
+            
     
-    }
-    }
-    ?>
-            
-            
-          </tbody>
-        </table>
-      </div>
-
-</div>
-
-
+    
     <br>
     <br>
     <!-- Page Content -->
@@ -290,11 +255,7 @@ if(isset($_GET['wrong'])) {
     <script src="js/index.js"></script>
 
 
-<script type="text/javascript">
-  setTimeout(function(){
-    location = ''
-  },10000)
-</script>
+
 </body>
 
 </html>
