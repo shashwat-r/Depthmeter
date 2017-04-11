@@ -28,7 +28,7 @@ $error_flag = false;
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Heroic Features - Start Bootstrap Template</title>
+    <title>DepthMeter</title>
 
     
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -118,7 +118,7 @@ $error_flag = false;
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="modules/store.php" style="font-size:175%;">Group 007</a>
+      <a class="navbar-brand" href="#" style="font-size:175%;">Group 007</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -146,18 +146,17 @@ $error_flag = false;
                    <div class="login-page">
         <script src="js/login_js.js"></script>
   <div class="form">
-    <form class="register-form" action="lol.php" method="post">
-      <input type="text" placeholder="name"/>
-      <input type="password" placeholder="password"/>
-      <input type="text" placeholder="email address"/>
-      <button type="submit">create</button>
-      <p class="message">Already registered? <a rel="nofollow" rel="noreferrer"href="#">Sign In</a></p>
+    <form class="register-form" action="lolzz.php" method="post">
+      <input type="text" name="username" placeholder="username"/>
+      <input type="password" name="password" placeholder="password"/>
+      <button type="submit">Admin Login</button>
+      <p class="message">Registered user? <a rel="nofollow" rel="noreferrer"href="#">Log in here</a></p>
     </form>
     <form class="login-form" action="lol.php" method="post">
       <input type="text" name="username" placeholder="username"/>
       <input type="password" name="password" placeholder="password"/>
       <button type="submit">login</button>
-      <p class="message">Not registered? <a rel="nofollow" rel="noreferrer"href="#">Create an account</a></p>
+      <p class="message">Admin? <a rel="nofollow" rel="noreferrer"href="#">Log in here</a></p>
     </form>
   </div>
 </div>

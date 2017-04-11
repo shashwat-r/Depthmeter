@@ -18,14 +18,14 @@ if (!$db_selected) {
                     $password = mysql_real_escape_string($_POST['password']);
                   
                     /* LIMIT 1: stop searching if you find a match */
-                    $query = "SELECT * FROM Users WHERE Username='".$username."' AND Password='".$password."' AND Admin=0 LIMIT 1";
+                    $query = "SELECT * FROM Users WHERE Username='".$username."' AND Password='".$password."' AND Admin=1 LIMIT 1";
                     $result = mysql_query($query);
                     if(mysql_fetch_array($result))
                     {
 
                     	setcookie('username',$username,time()+3600,"/");
                     	$_SESSION['username']=$username;
-                    	echo "<script>location='Modules/display.php'</script>";
+                    	echo "<script>location='Modules/user.php'</script>";
                     	//echo $_COOKIE['username'];
                     }
                     else
