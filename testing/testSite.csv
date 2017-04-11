@@ -1,0 +1,1187 @@
+Registration Testing
+username,password,error,state,test
+-O,aUP,first character must be alphanumeric ,not accepted,successful
+Q8c5u-ceOq$@hF42-,c,size of entries must be between 4 and 20 ,not accepted,successful
+7p,2TY7kE0kaV,size of entries must be between 4 and 20 ,not accepted,successful
+2H,Ngu2hZ)_fQ,size of entries must be between 4 and 20 ,not accepted,successful
+vuMbp)kI0,FjUgDR,username contains invalid characters,not accepted,successful
+yzRl%H88)MDwb,6@ Wr,username contains invalid characters,not accepted,successful
+6Ox $JRbSWwm5,,size of entries must be between 4 and 20 ,not accepted,successful
+BieUVW7p,cdOL,entries are valid,accepted,successful
+g%AJ5FSq5ng6,OFbjDx1,username contains invalid characters,not accepted,successful
+6$,Uk,size of entries must be between 4 and 20 ,not accepted,successful
+7VI@d4Y-$XU,8Af6heZgdwRNP8- I,username contains invalid characters,not accepted,successful
+k)$@1s,BdSL7j@-$N0E196,username contains invalid characters,not accepted,successful
+nVW1kC($_,h5q,size of entries must be between 4 and 20 ,not accepted,successful
+K3CoLcue(RfD4,eRxu76y@Yz25_D,username contains invalid characters,not accepted,successful
+V@2V)77IPgt@oYQJ3,gGN*Ep7pqvvirIm,username contains invalid characters,not accepted,successful
+r*J,gO,size of entries must be between 4 and 20 ,not accepted,successful
+PpHn9,gl7,size of entries must be between 4 and 20 ,not accepted,successful
+y9,EYIzyzSN$B,size of entries must be between 4 and 20 ,not accepted,successful
+W9*@2jeygXZwTQpg0,Jl1UDVecC6nG9m,username contains invalid characters,not accepted,successful
+B1i16YMOsZ,mXNCc0a8cf,entries are valid,accepted,successful
+n WQZoQnB,TmUscJ*pI,username contains invalid characters,not accepted,successful
+msq%Nn,JeY7)XECfFP,username contains invalid characters,not accepted,successful
+tvaEGBACnWIU,Q$lyL$kT)49n9qYN,entries are valid,accepted,successful
+Pgm__.,,size of entries must be between 4 and 20 ,not accepted,successful
+szmO*vG0lW_t,dq*BZ@7eL(,username contains invalid characters,not accepted,successful
+*u_MPr,odFgqzNiN9,first character must be alphanumeric ,not accepted,successful
+NgG,6ycC,size of entries must be between 4 and 20 ,not accepted,successful
+tED@,W7XMxTc59HoDva,username contains invalid characters,not accepted,successful
+RF5vfC,w4jWv,entries are valid,accepted,successful
+nLW2uEmfpww%,k6(ahnf2,username contains invalid characters,not accepted,successful
+4aq_rt%P%p,nhrr3%-Ua0,username contains invalid characters,not accepted,successful
+c55,(Om_SQbT-)JzNgnr,size of entries must be between 4 and 20 ,not accepted,successful
+f4uroxJ1qvr,Kb%CRYFFTpxMr6W,entries are valid,accepted,successful
+cXqoY bF$DQ,aZSl,username contains invalid characters,not accepted,successful
+Odqf,oUIk782OC6R,entries are valid,accepted,successful
+jht,.eu0,size of entries must be between 4 and 20 ,not accepted,successful
+sdAm4yvddLMPU,,size of entries must be between 4 and 20 ,not accepted,successful
+X@8QS OBqE.FOi,mSe_KLaiqZoVPrW,username contains invalid characters,not accepted,successful
+fmce9A9o lSabif,%BaO1(CJOG9@vTB,username contains invalid characters,not accepted,successful
+%-1khkorQHZudVg,Ta,first character must be alphanumeric ,not accepted,successful
+im-7q 4SX,s,size of entries must be between 4 and 20 ,not accepted,successful
+EzGbR9ok)S-gSGp2,9D90J55k,username contains invalid characters,not accepted,successful
+%AU,C_TH_i,first character must be alphanumeric ,not accepted,successful
+)1OcbL8 7FL26i,e%hiKRs,first character must be alphanumeric ,not accepted,successful
+Hp_,ZKAnAUUev,size of entries must be between 4 and 20 ,not accepted,successful
+nFB_PZpJx,Sg2,size of entries must be between 4 and 20 ,not accepted,successful
+cvyZ,(mHld-bUO6,entries are valid,accepted,successful
+r$x*.hJca,Gxwg1Dq -PS*68w,username contains invalid characters,not accepted,successful
+T%4.9QOI,E*Mw27rlqrhjt,username contains invalid characters,not accepted,successful
+QrV4y*u(dwUyc,xr4Qhp-,username contains invalid characters,not accepted,successful
+H$dQsjEU,g*)i-VXNgpGC,username contains invalid characters,not accepted,successful
+Z7)0,mp4cV2.lxc 5Y,username contains invalid characters,not accepted,successful
+CU1GiXuLm@Xsf,@CZblg5qNqrfkH-u,username contains invalid characters,not accepted,successful
+nhEk1,Nnhl6wlW,entries are valid,accepted,successful
+g3LYJx -EXxl5Xy,OQQxaP,username contains invalid characters,not accepted,successful
+wF7jhgTWsvXPpIKz,_6,size of entries must be between 4 and 20 ,not accepted,successful
+S_3uk%,K.T7SY5nAHN3Rc3K,username contains invalid characters,not accepted,successful
+z(_KjMQeLbQ61,os7av$(L.n_,username contains invalid characters,not accepted,successful
+O,cF@KAGpjgiclo,size of entries must be between 4 and 20 ,not accepted,successful
+V0D,aC2DgSa8V)mx_$,size of entries must be between 4 and 20 ,not accepted,successful
+LWRZ**v(X$OCur,iUQK$,username contains invalid characters,not accepted,successful
+ fWOlZm5927Fx8Qe,Vty(,first character must be alphanumeric ,not accepted,successful
+,bzusnEeL(Kk,first character must be alphanumeric ,not accepted,successful
+GRyQUp0,bZi@Ozb(,entries are valid,accepted,successful
+%BR@$sV0SFeg7Q1,qx$idIWsA,first character must be alphanumeric ,not accepted,successful
+zELoPvdBks)x(,3YS,size of entries must be between 4 and 20 ,not accepted,successful
+)$7w%Lo8X4EJVb,m8@-P1MT96,first character must be alphanumeric ,not accepted,successful
+avcm_cpVyDS8_J$T,xXhAOo7,username contains invalid characters,not accepted,successful
+Ouh6f0@g,ydLk,username contains invalid characters,not accepted,successful
+b.x26-Y0TIPs)Q,3KL1PE0t*TsYS,username contains invalid characters,not accepted,successful
+_,3,first character must be alphanumeric ,not accepted,successful
+hIouoAIk,Mc(HQlcg,entries are valid,accepted,successful
+5u1fK-_aB@N@mx,NeWn-i$4PB,username contains invalid characters,not accepted,successful
+OKkOML(FlcfJ,,size of entries must be between 4 and 20 ,not accepted,successful
+,u_mKxu($AA%Om9Y6,first character must be alphanumeric ,not accepted,successful
+cr$P(Q3J_f)32gMFEp,J9vv0wo*IhZ7NW*,username contains invalid characters,not accepted,successful
+0T8vYeRt_,*iDaBs6SXI9Gg T4P,entries are valid,accepted,successful
+QsxrVpNJ$96@,jrU,size of entries must be between 4 and 20 ,not accepted,successful
+GsfKeQ%PtPUqbO,,size of entries must be between 4 and 20 ,not accepted,successful
+@gsyh5cB)V9 IO9Xw,87Hx4CKU,first character must be alphanumeric ,not accepted,successful
+ LLWS,11JG,first character must be alphanumeric ,not accepted,successful
+E9Rrx%tYm ,Fn*jYW w5UR,username contains invalid characters,not accepted,successful
+PTJUWon9ZYy,.(rrW,entries are valid,accepted,successful
+nGlZVTPP4G1xV,Lb8WOvPaoj,entries are valid,accepted,successful
+G.,,size of entries must be between 4 and 20 ,not accepted,successful
+Q6c,K.-BH$6-Q4C@.x-oP(,size of entries must be between 4 and 20 ,not accepted,successful
+U@1P877G0hx-_4, 7z),username contains invalid characters,not accepted,successful
+v,@mmAZn2j,size of entries must be between 4 and 20 ,not accepted,successful
+qfJ,nER63kj$_a((,size of entries must be between 4 and 20 ,not accepted,successful
+Xb3C,OTHGAVN,entries are valid,accepted,successful
+MDs-iDyY,gjpjyfF,entries are valid,accepted,successful
+AnyY-tj.,i*.t_L Bob,entries are valid,accepted,successful
+Are,*N)j0HG,size of entries must be between 4 and 20 ,not accepted,successful
+Pm%$Ldp5U,FRdbYGk6qVb3Li,username contains invalid characters,not accepted,successful
+%qdD,2Gw7)wx1,first character must be alphanumeric ,not accepted,successful
+sYU0)0eaX@A*nc_pb,mVDrWt%cbW,username contains invalid characters,not accepted,successful
+j%X%QDyF,).,size of entries must be between 4 and 20 ,not accepted,successful
+MHw%FAc ,xVRAud2ukkxaDufK,username contains invalid characters,not accepted,successful
+E.*Z3v,kxB,size of entries must be between 4 and 20 ,not accepted,successful
+*Y)izMu*@2BS-kwz,iavzIVTk,first character must be alphanumeric ,not accepted,successful
+Yd8S0(15WaMntOBWW, $(*BtpUnz1,username contains invalid characters,not accepted,successful
+MoLv7IdQ.x,h$jVH,entries are valid,accepted,successful
+hQo.,e9X-XXpDpF,entries are valid,accepted,successful
+ZBJ9tLpZu2IhHC,M,size of entries must be between 4 and 20 ,not accepted,successful
+Tz2L,rkF-SBH% Dz,entries are valid,accepted,successful
+QZ0I7,5Q,size of entries must be between 4 and 20 ,not accepted,successful
+*pO,u3D,first character must be alphanumeric ,not accepted,successful
+a7,,size of entries must be between 4 and 20 ,not accepted,successful
+Q%bM7dLt,v12LZ1GVgyJqGZ6%,username contains invalid characters,not accepted,successful
+3V cPmek9$@$0,qgEOXTi0,username contains invalid characters,not accepted,successful
+dT7,OWdbzMB)ijzT,size of entries must be between 4 and 20 ,not accepted,successful
+F,Nwixq,size of entries must be between 4 and 20 ,not accepted,successful
+5.Z ,$DBHg)xFpl)f%,username contains invalid characters,not accepted,successful
+K0P2%dJx6,C,size of entries must be between 4 and 20 ,not accepted,successful
+I_fU(To61EG@-hS@n6,umrwyd66ikUCn,username contains invalid characters,not accepted,successful
+W*,cjb%Yae-Jw5Jge,size of entries must be between 4 and 20 ,not accepted,successful
+DqRW0x2sWOU,Mu,size of entries must be between 4 and 20 ,not accepted,successful
+SehrAW)TP12aZX7,) OcuetdY,username contains invalid characters,not accepted,successful
+d0Fw350SIF,$yQ7_8 LfHv8tE0d,entries are valid,accepted,successful
+_Y4uKkL@mXA,4Bq7o k(9Pol,first character must be alphanumeric ,not accepted,successful
+64d@QCC$jxj4,OU5,size of entries must be between 4 and 20 ,not accepted,successful
+.FgCYTBY,Wa-(1i*lK P,first character must be alphanumeric ,not accepted,successful
+ABK_S1-HS,c)XmU%R3l,entries are valid,accepted,successful
+Z@Z(B*Snio,@(6,size of entries must be between 4 and 20 ,not accepted,successful
+9.2*BfSRE5W3YEetMW,cZ R.dW-dcGBjD,username contains invalid characters,not accepted,successful
+GKz.tXUc))CYd4OrMe,z8oYtF PmceZS.,username contains invalid characters,not accepted,successful
+5YscS2Qel6@(mCArYd,Y5t NAeoPT8,username contains invalid characters,not accepted,successful
+0Ls4IZ9Lwmt1bN1,,size of entries must be between 4 and 20 ,not accepted,successful
+uTFu@q81OT)%DG,9wfYk,username contains invalid characters,not accepted,successful
+T604*,PQVl,username contains invalid characters,not accepted,successful
+M0rzJJBdAE6RHD*SNO,yv@Wh**bmvhuB1GY,username contains invalid characters,not accepted,successful
+DouCcvjGR7zR*10g4f,_QW8y),username contains invalid characters,not accepted,successful
+1NZSN3t6h,GPdT3qeNm2M-9K3m,entries are valid,accepted,successful
+SeJlX,qYl(,entries are valid,accepted,successful
+SC6a@Z@$,DA..h6-(gk@31weZ*,username contains invalid characters,not accepted,successful
+B-,veb2SYfJtNan,size of entries must be between 4 and 20 ,not accepted,successful
+G,b,size of entries must be between 4 and 20 ,not accepted,successful
+zeWtyE,h$k-xT4$Akm8yNDn D,entries are valid,accepted,successful
+Irif@mT).2QrB(,4HG0GVP)l,username contains invalid characters,not accepted,successful
+%txURZW)KX,bPj6%Z4OHhmcn,first character must be alphanumeric ,not accepted,successful
+z(2K,wl1RY-qrIljI,username contains invalid characters,not accepted,successful
+,Ud,first character must be alphanumeric ,not accepted,successful
+uYZ,lUZdAGoy_WtB,size of entries must be between 4 and 20 ,not accepted,successful
+0D083-g,JO@O2@wa1Ca,entries are valid,accepted,successful
+y%%gKJ@jW1wol,*Fk3%ZA_y*,username contains invalid characters,not accepted,successful
+DfXO3(I(IYG$r3,7lWV,username contains invalid characters,not accepted,successful
+478gG3iVOlpsTBKcFP,m-.m3l2vo,entries are valid,accepted,successful
+pYcp1wVb,ARkNi3,entries are valid,accepted,successful
+NWu0yYDE$7,9PCmSpRh6i_*IiUnn_,username contains invalid characters,not accepted,successful
+73,- @H.Q28npyzP,size of entries must be between 4 and 20 ,not accepted,successful
+CyyM6VqrS_,jeMOCQt0nITHN,entries are valid,accepted,successful
+iH,YEQ9ufpMb$,size of entries must be between 4 and 20 ,not accepted,successful
+rL2tQByOFj(EeL.,MUK4ly$LDjuumrQ,username contains invalid characters,not accepted,successful
+LU5(j Z$FlFwQu,uywdKSO,username contains invalid characters,not accepted,successful
+UNOx@LK%m5Y-Ho,VzE@4,username contains invalid characters,not accepted,successful
+r1LZnOwr0kv%3,Z7QEhy7fZUh04D9,username contains invalid characters,not accepted,successful
+E1FcDt7Ov6NcBu,9r-NJXg9Kyj,entries are valid,accepted,successful
+oTxy0O Ih5i,Pd@-_hghFEuqeL5f,username contains invalid characters,not accepted,successful
+hwtH,n7n8Vns%6VasCdWCT,entries are valid,accepted,successful
+%wfj0(mjnj*.spaO,0TblH)uGUV1kaq,first character must be alphanumeric ,not accepted,successful
+oQgPxEUrrGPwyI$,%uqnkC,username contains invalid characters,not accepted,successful
+4vE-Vt1@u$v,Dc,size of entries must be between 4 and 20 ,not accepted,successful
+g,eAT1t0rh,size of entries must be between 4 and 20 ,not accepted,successful
+CGf Y4Y9NyykDi*Y,-Z2lQqfKh,username contains invalid characters,not accepted,successful
+o-tSRFs)0UXiuK,,size of entries must be between 4 and 20 ,not accepted,successful
+-JZm04psDgo$LCA4,)axJW*GD3Yn76o,first character must be alphanumeric ,not accepted,successful
+SYbaXiqMVKRe,Nuc9zcNupyFH,entries are valid,accepted,successful
+)*7scC$VXvx0Z,ZeT6Jq 80(Np,first character must be alphanumeric ,not accepted,successful
+(Q$iy_KhAz3QX6-U)G,mI)ypeJU,first character must be alphanumeric ,not accepted,successful
+)4,9kjM_mRzbt$,first character must be alphanumeric ,not accepted,successful
+ SY@*G%u,tVoL_1LT-,first character must be alphanumeric ,not accepted,successful
+kRtVWkOX%,EZETWZ1pJPAasMagQ,username contains invalid characters,not accepted,successful
+)-Kftz16Mh,0N*ce2,first character must be alphanumeric ,not accepted,successful
+XouQ,z7Tw-X4d05cv,entries are valid,accepted,successful
+, zFN3ph-82ZWi,first character must be alphanumeric ,not accepted,successful
+hS%X$X)WWrZRIE$,pK$d1,username contains invalid characters,not accepted,successful
+flR9AIv3v6t,oEaNxQfxZh,entries are valid,accepted,successful
+4U,Vw)(2,size of entries must be between 4 and 20 ,not accepted,successful
+HJZ9VhS9PEg@,ta)6hY9,username contains invalid characters,not accepted,successful
+ET(tq8,Ia4)0SZHz,username contains invalid characters,not accepted,successful
+M$KiCC0c,@9 YNo7u1fmcho4gF5,username contains invalid characters,not accepted,successful
+Aqz5,UTOy$LBsl,entries are valid,accepted,successful
+D1c-ie_Y6HtY,5VcxW%F5fc0i VnCh,entries are valid,accepted,successful
+YkZoMVGQ,,size of entries must be between 4 and 20 ,not accepted,successful
+61TsZL%S8bwR*,ecRb(Uc2Zzc)-d,username contains invalid characters,not accepted,successful
+rru*B%ey0MR,RBQQJ5Q ,username contains invalid characters,not accepted,successful
+1h%f2)v73Luv(Z,Lg.OdY8,username contains invalid characters,not accepted,successful
+9Q)(Jl 9IElf,@)_,size of entries must be between 4 and 20 ,not accepted,successful
+zbu332T3M5Zm4,SHvQ(e6qZ4S2m.,entries are valid,accepted,successful
+,Jl,first character must be alphanumeric ,not accepted,successful
+HF,rdnvEP6EmLG*FG,size of entries must be between 4 and 20 ,not accepted,successful
+445I_1bTNxR_K(dQk,4HD(Q2aA-MD,username contains invalid characters,not accepted,successful
+_O$Rf(a64m6PQ@WEn.,wIw,first character must be alphanumeric ,not accepted,successful
+gcsf1TTu3-kF)jG-,rW_flVX%2,username contains invalid characters,not accepted,successful
+MX4Ue4$or,48iMPG*NDG7te,username contains invalid characters,not accepted,successful
+e@b,k,size of entries must be between 4 and 20 ,not accepted,successful
+I$ZT pC%nwcVr,I7@H,username contains invalid characters,not accepted,successful
+qQ2OcA00,3xNV*(x,entries are valid,accepted,successful
+xwb iKea6w,_Dkv.8Ee)$q,username contains invalid characters,not accepted,successful
+ R3M46,65dpE Od,first character must be alphanumeric ,not accepted,successful
+jFAU.yC0t7,uOFjcb2q%VicUA,entries are valid,accepted,successful
+W9ZEvwy@N2y,ilu9bYMVVz7K9i,username contains invalid characters,not accepted,successful
+.cUh)UTL3u,(dtIkp ,first character must be alphanumeric ,not accepted,successful
+A(8Dla_tsyDs).D,MHr.21Zl5EK,username contains invalid characters,not accepted,successful
+UGd,RvDMiPx,size of entries must be between 4 and 20 ,not accepted,successful
+IfrWu-M(O.-F4,BH,size of entries must be between 4 and 20 ,not accepted,successful
+sP)fd,O3jdsWv78H%Rv,username contains invalid characters,not accepted,successful
+V7fIETW@E0Hl,Ub*eR2%ZcNfrkSBk2,username contains invalid characters,not accepted,successful
+xq((,e877oWjatsU2Is_r7A,username contains invalid characters,not accepted,successful
+,aikGtM5sRK9kZy,first character must be alphanumeric ,not accepted,successful
+(klg,QS1ApC%cRgv @,first character must be alphanumeric ,not accepted,successful
+%eFhQK90w9usNX,g@3,first character must be alphanumeric ,not accepted,successful
+Qb*_6O,IcIyyZjw,username contains invalid characters,not accepted,successful
+@Jm1xgQgF0c6DZ,S53yHw5vwA*8,first character must be alphanumeric ,not accepted,successful
+CGQy_eVPxH%,5@DB3U6PB_,username contains invalid characters,not accepted,successful
+ZPkYyOVe7,gog,size of entries must be between 4 and 20 ,not accepted,successful
+Pf-I-_rmnocq%5MFo,kyJQn3,username contains invalid characters,not accepted,successful
+)Ht.WZrgi25pvl_sKS,Z1T,first character must be alphanumeric ,not accepted,successful
+sFtEq,7uZrhqZcJG,entries are valid,accepted,successful
+PEan (H@DvOU.e,xyYrF.YiAAm72eMR,username contains invalid characters,not accepted,successful
+leTPz-n,k7_pjl(lstYk7CSz,entries are valid,accepted,successful
+t*nUbF$C,_ldQvxjUMAt9QE ,username contains invalid characters,not accepted,successful
+1G)wi,FfN(Dv(D6_f,username contains invalid characters,not accepted,successful
+Jjg0wJDwU,-a4PF,entries are valid,accepted,successful
+O-V7Ft7d,Rwg,size of entries must be between 4 and 20 ,not accepted,successful
+ioRd r1-MEGGS3Jw,e6dvtx*p(FEJTUW,username contains invalid characters,not accepted,successful
+i)NsZm7XBUwYh,zZmX0xJg,username contains invalid characters,not accepted,successful
+7y,$I@_khD,size of entries must be between 4 and 20 ,not accepted,successful
+u,ZsQMrcViWO,size of entries must be between 4 and 20 ,not accepted,successful
+l-KRf,4aGigns01s),entries are valid,accepted,successful
+(IcEOMD8zlBE8$0L,I-eh Emwb,first character must be alphanumeric ,not accepted,successful
+R-7QkT,I9vOXu6g*Orr0G,entries are valid,accepted,successful
+h5X3Q(Z(3,Uk_v*x@y0 ,username contains invalid characters,not accepted,successful
+NV$G,3lpwPu5X@,username contains invalid characters,not accepted,successful
+RSz(7A@-kPKZn5O42,XyXzH9$7@za9tfIDdE,username contains invalid characters,not accepted,successful
+5l,bq,size of entries must be between 4 and 20 ,not accepted,successful
+%lOu8w5wh9,V*(FSuJN@w3tOUBI,first character must be alphanumeric ,not accepted,successful
+y,hKGT,size of entries must be between 4 and 20 ,not accepted,successful
+,Y2%0,first character must be alphanumeric ,not accepted,successful
+NR0F, m(X_d6RQvBO,entries are valid,accepted,successful
+u.JjbtCqE)a,5BQecF,username contains invalid characters,not accepted,successful
+uA bjh$8NZ7nrmcQ,113vUJ,username contains invalid characters,not accepted,successful
+I,FYAWh7SlsLkShvf,size of entries must be between 4 and 20 ,not accepted,successful
+Vy65S2r7IBRbt),bsN*p4p1TrP0)D,username contains invalid characters,not accepted,successful
+%.PK,*ZS cC)3C8ie3afUE.,first character must be alphanumeric ,not accepted,successful
+i%wREjW,(BYJrM1fKOD4,username contains invalid characters,not accepted,successful
+hGq%Ey2*M2oSxVmJ,1ku%Ep1$Zl,username contains invalid characters,not accepted,successful
+rl.C,,size of entries must be between 4 and 20 ,not accepted,successful
+XxTta*M0wIrn32J,48oX0m7-BMG2-,username contains invalid characters,not accepted,successful
+34F_,x5L94olP20T,entries are valid,accepted,successful
+PV3HvsWeCr2eM4R,_yGQ5,entries are valid,accepted,successful
+Va8)UcF$a*Nuf,C)$,size of entries must be between 4 and 20 ,not accepted,successful
+y,vY2-f,size of entries must be between 4 and 20 ,not accepted,successful
+az0R6,P,size of entries must be between 4 and 20 ,not accepted,successful
+rnhqivi-58jWthC8LY,$.QAMWsFX5C@C%9Q7,entries are valid,accepted,successful
+,TM1ct,first character must be alphanumeric ,not accepted,successful
+-uYXlzf*n7n3H,Rt*9r,first character must be alphanumeric ,not accepted,successful
+BMLx2k YAUU$FOP%,i1xnp,username contains invalid characters,not accepted,successful
+z(eDQM,,size of entries must be between 4 and 20 ,not accepted,successful
+-5(x1Csq$x K() ,kzOm1,first character must be alphanumeric ,not accepted,successful
+dloBJjfzAdwL_oupNA,6b@f,entries are valid,accepted,successful
+.m7,04ey.,first character must be alphanumeric ,not accepted,successful
+6fUhjM(C3Dr,nrW- A,username contains invalid characters,not accepted,successful
+u)DqxcT88LYact@,6C yyFLE)g8y_,username contains invalid characters,not accepted,successful
+aOLAR,,size of entries must be between 4 and 20 ,not accepted,successful
+$P5,_ClzDbmrhwTG-u,first character must be alphanumeric ,not accepted,successful
+vg$aPIQ_Gf1_UPjj,dN7@B(xk*M7)Tjpx,username contains invalid characters,not accepted,successful
+lt3b.HoKSw,8Y*_Rv)i-lQhM@H(O,entries are valid,accepted,successful
+NKcO2xuyY WDQA46NS,dIEagn,username contains invalid characters,not accepted,successful
+kp0U,15Z7,entries are valid,accepted,successful
+lrgxnvfhvL NYkk,tr8rngC.,username contains invalid characters,not accepted,successful
+,R(iZK 7D,first character must be alphanumeric ,not accepted,successful
+f-nF@9fb*Mk7Ji,32RT1Oip M,username contains invalid characters,not accepted,successful
+*f(qkdVE,B(30m,first character must be alphanumeric ,not accepted,successful
+m3ZoVxyD.K,,size of entries must be between 4 and 20 ,not accepted,successful
+aH@HM.uR,f$ec3cZNUqVMMAsyy,username contains invalid characters,not accepted,successful
+kzg_UmkB9@aCTLcp,kFs-,username contains invalid characters,not accepted,successful
+s8 4P2m@qYzVl2g,2V6d)i6,username contains invalid characters,not accepted,successful
+GwC_bX9o,n3knLZ_Wcu.@rJ*i,entries are valid,accepted,successful
+VDuSj,,size of entries must be between 4 and 20 ,not accepted,successful
+eAt(),aG9PX3d*)N,username contains invalid characters,not accepted,successful
+bTOVns8uY uXMB nW,Cd%ik2TWUz7jY7.qK_,username contains invalid characters,not accepted,successful
+SU-t)skJW,nfaI1s4,username contains invalid characters,not accepted,successful
+oM2$J2G,* awZPd,username contains invalid characters,not accepted,successful
+Fk%Dopsi,UNqDutgrEHUGqmV,username contains invalid characters,not accepted,successful
+C,4IPW47U(1MLhZmua,size of entries must be between 4 and 20 ,not accepted,successful
+w36)xT@H UKhZ3PjI,t5j94GO,username contains invalid characters,not accepted,successful
+2G0JvXpbq2,p4wtpppe3yO7h@bYY,entries are valid,accepted,successful
+68plA6bFBV),3%hodmBcLc,username contains invalid characters,not accepted,successful
+KzaA5Fy,%-*,size of entries must be between 4 and 20 ,not accepted,successful
+J_n@15$KLs,e0A,size of entries must be between 4 and 20 ,not accepted,successful
+g0,kVlPATXLsGoQpCtd,size of entries must be between 4 and 20 ,not accepted,successful
+SiYltiuXM9u,jsapPOAjQkN9,entries are valid,accepted,successful
+GX8d5EO,)_2lAtLwm_,entries are valid,accepted,successful
+PwKxs@GQ8(Q9lFikEM,R-qFYJSF kv82*FbH,username contains invalid characters,not accepted,successful
+KB.HfQ7,Eq@,size of entries must be between 4 and 20 ,not accepted,successful
+c9GcT5a2@Pk,8szqO(c0qfNjDl-V0u,username contains invalid characters,not accepted,successful
+kDL,xTDrER,size of entries must be between 4 and 20 ,not accepted,successful
+,QpvvLjoXdB3FLa,first character must be alphanumeric ,not accepted,successful
+xQ,n.YnsonL%9L,size of entries must be between 4 and 20 ,not accepted,successful
+@H,xvIK3ppfd(Omg,first character must be alphanumeric ,not accepted,successful
+bDkYR$,z9XBuNS,username contains invalid characters,not accepted,successful
+s9aG2LXW4q5pTQ,(KNE.C,entries are valid,accepted,successful
+T-CQ1QMk$kNK)*Q8mv,_hx*)busFZQ3ND*,username contains invalid characters,not accepted,successful
+9COpL4h,PUW*89VKQ53e_,entries are valid,accepted,successful
+dIBDw)w7N*Ht9*s,-(F1,username contains invalid characters,not accepted,successful
+Az0,)1,size of entries must be between 4 and 20 ,not accepted,successful
+XAXca$hzjSmu$mZxE,u,size of entries must be between 4 and 20 ,not accepted,successful
+9CP)g,QBF29,username contains invalid characters,not accepted,successful
+pzQ7P,o,size of entries must be between 4 and 20 ,not accepted,successful
+zp1uz,R,size of entries must be between 4 and 20 ,not accepted,successful
+pXW,bxveFHve,size of entries must be between 4 and 20 ,not accepted,successful
+ o3)yNtTpG,o3h,first character must be alphanumeric ,not accepted,successful
+SqZ,4sl5Q,size of entries must be between 4 and 20 ,not accepted,successful
+MbkHnT9@_,yd,size of entries must be between 4 and 20 ,not accepted,successful
+@Oks-9(QF0n,3kfwwdQhrvLtG,first character must be alphanumeric ,not accepted,successful
+,5f1ShghBS$pS,first character must be alphanumeric ,not accepted,successful
+LqphOgG4eV T,6yc-0Vk5S1hlC,username contains invalid characters,not accepted,successful
+Og,,size of entries must be between 4 and 20 ,not accepted,successful
+Byn9u@1zK,d)M6382FBstCE S,username contains invalid characters,not accepted,successful
+XoO,HhW3w,size of entries must be between 4 and 20 ,not accepted,successful
+lG*fdDBMAS(E,a,size of entries must be between 4 and 20 ,not accepted,successful
+cC%n7_vusCDpNqH,EbpYtGG,username contains invalid characters,not accepted,successful
+jTYOt-U1_j*P.FoJgG,C,size of entries must be between 4 and 20 ,not accepted,successful
+dWfx_hQ$Hu@O.0It T,hIcl8Ye3,username contains invalid characters,not accepted,successful
+r6C.wddy,hKU%HK o,entries are valid,accepted,successful
+_x78Mws)ses6y1,ThL45nYC0)$Lz,first character must be alphanumeric ,not accepted,successful
+RQ%9j,WfOUgI,username contains invalid characters,not accepted,successful
+KRNZ,qSVe@(xr(cuF,entries are valid,accepted,successful
+O8sW1hzSS V*JTa,i1VfZ9XMCqKZE8AA,username contains invalid characters,not accepted,successful
+7U0HoX9MVdH,(%(,size of entries must be between 4 and 20 ,not accepted,successful
+n@1U5MxSq u,cvA,size of entries must be between 4 and 20 ,not accepted,successful
+HPL)g UB1Ece, hASut@ki2C$,username contains invalid characters,not accepted,successful
+tCkrHEiH),u73FoO%,username contains invalid characters,not accepted,successful
+Z%0fW8.Ajr5CZjA$m7,xy8q*ws)*D8,username contains invalid characters,not accepted,successful
+,yyG)b%8F_GKU,first character must be alphanumeric ,not accepted,successful
+ViB*,K,size of entries must be between 4 and 20 ,not accepted,successful
+C*595O-3,b%pFbMUm@0qGn,username contains invalid characters,not accepted,successful
+,8Dls(,first character must be alphanumeric ,not accepted,successful
+rXS.Mk,V%H,size of entries must be between 4 and 20 ,not accepted,successful
+1xGOmy ,H1,size of entries must be between 4 and 20 ,not accepted,successful
+CAsX8Kdp*id,s.H,size of entries must be between 4 and 20 ,not accepted,successful
+4hsvF1zr8.WY,)z%ztTpf,entries are valid,accepted,successful
+x)%bfwhT3RvVegNDt,D@AAN6_)D.25@pe,username contains invalid characters,not accepted,successful
+2pX6J9VWmn8_,BS5iw-_2,entries are valid,accepted,successful
+a%xM4dNLeHyA2gf@,@,size of entries must be between 4 and 20 ,not accepted,successful
+rXX,LU,size of entries must be between 4 and 20 ,not accepted,successful
+4r1keXgZtojrD9Lju2,bO8,size of entries must be between 4 and 20 ,not accepted,successful
+hbC,dz%wXWQB*4yX),size of entries must be between 4 and 20 ,not accepted,successful
+CGuMJ9D3*zfrDErjex,2*45UDESG$wvgk,username contains invalid characters,not accepted,successful
+VPN8,Bjwn,entries are valid,accepted,successful
+Q7,Js71ZM6bZOgf ,size of entries must be between 4 and 20 ,not accepted,successful
+XgWaPs*X_,QgFtH,username contains invalid characters,not accepted,successful
+T,%_iaY2NzCu,size of entries must be between 4 and 20 ,not accepted,successful
+EoCFO) ,GdE4xFKB ,username contains invalid characters,not accepted,successful
+zn07*p,W(oZ$nxz,username contains invalid characters,not accepted,successful
+xZrT,wJNp,entries are valid,accepted,successful
+ gX3JxSIBS)bx.ZC,@hn*k,first character must be alphanumeric ,not accepted,successful
+9)),m%AgFY-w(QSN% XO@,size of entries must be between 4 and 20 ,not accepted,successful
+bGKiQ,vvKn@VVFk,entries are valid,accepted,successful
+kjmHKxkM,C**jV5kFy705HSisl,entries are valid,accepted,successful
+,r8$A*omAS4XfyG6myB,first character must be alphanumeric ,not accepted,successful
+pN,7gj3Of,size of entries must be between 4 and 20 ,not accepted,successful
+@U,EHTqRXfh1uZ,first character must be alphanumeric ,not accepted,successful
+exFtU,plSrB89,entries are valid,accepted,successful
+RQtFzPhQE,U3.,size of entries must be between 4 and 20 ,not accepted,successful
+yphMku0AXqDNb77J_,onppa,entries are valid,accepted,successful
+,(,first character must be alphanumeric ,not accepted,successful
+)K0XpGLLShDvVi,.I*bXd,first character must be alphanumeric ,not accepted,successful
+ngDgWL9aBUHAaX3,pnkY,entries are valid,accepted,successful
+zc-Oil@PvTop@Phb,w,size of entries must be between 4 and 20 ,not accepted,successful
+v3SCP-coOP,IQFv1vetpaI(e.H,entries are valid,accepted,successful
+j)6CVx@)bE,SC SvZ(UTP-TNnex,username contains invalid characters,not accepted,successful
+-aG(h4h2ajDqu29,%)89R_VH1,first character must be alphanumeric ,not accepted,successful
+NH-e)8oPg$t ,8wWWjecq)Ku,username contains invalid characters,not accepted,successful
+UB_H 8_3b$9j,_02waIm2TMawn*ifl,username contains invalid characters,not accepted,successful
+WG*O0_.xlwCyX_Ik,D5jc,username contains invalid characters,not accepted,successful
+lj-SklpAx$kT ,sTrkt4Jw5p2%Lr@,username contains invalid characters,not accepted,successful
+_CwQ@p7@TemWCgDA,36tJrAC*AhW,first character must be alphanumeric ,not accepted,successful
+qYQech,y%bWycJl%,entries are valid,accepted,successful
+MujCr2g6ybgRr3V,KP(Bben4HfqY,entries are valid,accepted,successful
+,-,first character must be alphanumeric ,not accepted,successful
+Euwqf74_St2K8DSJ,zP@Nxj(qF--akk,entries are valid,accepted,successful
+N.K_*,,size of entries must be between 4 and 20 ,not accepted,successful
+0bYU5ZKfi7f,6uoJwAv@DE2udtA,entries are valid,accepted,successful
+9BSnhinZRMh%hx),KMsvcAvw8g,username contains invalid characters,not accepted,successful
+iHbkVR1BeY ,qKSelalA,username contains invalid characters,not accepted,successful
+H ,NdTC5geYwTFDYP%7,size of entries must be between 4 and 20 ,not accepted,successful
+o -4l6,W0s8t*ZTm,username contains invalid characters,not accepted,successful
+7cUyjl)d0_w0u@Kn ,FSgz$Kv*A,username contains invalid characters,not accepted,successful
+,b6.ok8vJzFX1,first character must be alphanumeric ,not accepted,successful
+9,qd-MV(B3@3E4YPi,size of entries must be between 4 and 20 ,not accepted,successful
+OVffAYV)mK-O-OWIsQ,%Stuw9@IaEkm%Kwnwv,username contains invalid characters,not accepted,successful
+o2K(,qP,size of entries must be between 4 and 20 ,not accepted,successful
+G-6a.QaoYvJTJC,j%V)jJD,entries are valid,accepted,successful
+0LHFPD,R3VL8P8b2TAVcH8,entries are valid,accepted,successful
+T-wfR(dK .t,SIvzWXYSNh_veI_dk,username contains invalid characters,not accepted,successful
+@4Fll8M3-rF,qy,first character must be alphanumeric ,not accepted,successful
+02Y1zBB600%Fzp0,11coa1ZpoIA0m71_c,username contains invalid characters,not accepted,successful
+%I8H( g,-d9(5f3V2Rv,first character must be alphanumeric ,not accepted,successful
+U8,ORl-,size of entries must be between 4 and 20 ,not accepted,successful
+*Y,%UwJkS6f77MZoskuNJ,first character must be alphanumeric ,not accepted,successful
+8rKqwNkr3zI.HUKn7M,l5@dfoxYqJ,entries are valid,accepted,successful
+ath-3hIk$50CgR,c$YE(BniMhIX,username contains invalid characters,not accepted,successful
+Fm70ATmyXW, ,size of entries must be between 4 and 20 ,not accepted,successful
+-jb6ijdWuk@,W%SXAI,first character must be alphanumeric ,not accepted,successful
+5rAXG,%bGS1QaA53,entries are valid,accepted,successful
+9Fbv7eM(BcJCJCA,PTfc.rR*k,username contains invalid characters,not accepted,successful
+alr4S2nJgs43y8,Sl$ONtko$   F1,entries are valid,accepted,successful
+bu7vmf,aAnF6ix,entries are valid,accepted,successful
+q.0ro2oojKWN,oits,entries are valid,accepted,successful
+Yc4F,D0pInZiWx)TF,entries are valid,accepted,successful
+R9n8QS0,uM**@T,entries are valid,accepted,successful
+JG.6QG%9Zn088GLC,,size of entries must be between 4 and 20 ,not accepted,successful
+XBrq1Ef9G,UW,size of entries must be between 4 and 20 ,not accepted,successful
+7dBn66Aw2QkY,sxj-H,entries are valid,accepted,successful
+a3nYhHzkm)8VZm),Z4ro,username contains invalid characters,not accepted,successful
+DIUnTnnKs,Mxff4ChN,entries are valid,accepted,successful
+l4WC1p hWea)e@Lm,hV O9_,username contains invalid characters,not accepted,successful
+uydkS_NEtFKP9b,Zi*fq5,entries are valid,accepted,successful
+rho,zHhXde0$.U,size of entries must be between 4 and 20 ,not accepted,successful
+BwBdBWWnjXR,djeS8NKAh$(3Lwwv4g,entries are valid,accepted,successful
+nJpIq,us(Fm3_.e$VtfFv,entries are valid,accepted,successful
+Ngi$c_*%o,oZEVc6 tzHfC7wo,username contains invalid characters,not accepted,successful
+$4%X@NObTCDb7v, -BQy,first character must be alphanumeric ,not accepted,successful
+ NgiPHKV5kMA(,cU,first character must be alphanumeric ,not accepted,successful
+vOAvky57YnNAW-dIuP,Xdo,size of entries must be between 4 and 20 ,not accepted,successful
+,5MRzB*%X5j,first character must be alphanumeric ,not accepted,successful
+)ryvrmYh.Pl6w,1 GfWosW,first character must be alphanumeric ,not accepted,successful
+oD,E)vGR_Kl7o,size of entries must be between 4 and 20 ,not accepted,successful
+T0Q4ylOx4pvLV,0%tPGtE,entries are valid,accepted,successful
+Mq5tcK.ucW2,k(.bc,entries are valid,accepted,successful
+S7eFgkcOpe3UL%Y2.p,ALS,size of entries must be between 4 and 20 ,not accepted,successful
+k,morWS@,size of entries must be between 4 and 20 ,not accepted,successful
+1v ydxE,8yt9T-S,username contains invalid characters,not accepted,successful
+Hq(-1gam0ug3sB6_,BixmD9dOT,username contains invalid characters,not accepted,successful
+wwsDC,KA6$,entries are valid,accepted,successful
+,XpeX4B.r,first character must be alphanumeric ,not accepted,successful
+4zyx-*I*Z5Y5@,IKUOBrf0,username contains invalid characters,not accepted,successful
+yBsRbph_,_em,size of entries must be between 4 and 20 ,not accepted,successful
+sgdcWfZBA$9Zcfucz,n,size of entries must be between 4 and 20 ,not accepted,successful
+0PftZtp6,KDQQZ@*9n.,entries are valid,accepted,successful
+TU,@fKGkjfWnSD4rN,size of entries must be between 4 and 20 ,not accepted,successful
+TcXpUuzHG-UD(H.jH,iz8s0oHd)XOA,username contains invalid characters,not accepted,successful
+LwpUuafG4Zoo62,0L)b_VI_jjeol_v%u,entries are valid,accepted,successful
+vY2At3sEuPryiV,_iSZ,entries are valid,accepted,successful
+,Ow1uD$5rB9$NR3o,first character must be alphanumeric ,not accepted,successful
+LFytt.3g,CUnR,entries are valid,accepted,successful
+%9jddU3KC,oOMOk,first character must be alphanumeric ,not accepted,successful
+P-URL0%i4,O)dkgT,username contains invalid characters,not accepted,successful
+m,IC_YE,size of entries must be between 4 and 20 ,not accepted,successful
+RLu@HW,HsoY*xDe9buhZL,username contains invalid characters,not accepted,successful
+rm,MA3aXQ,size of entries must be between 4 and 20 ,not accepted,successful
+doA%VbA01c0%L2,TRMw,username contains invalid characters,not accepted,successful
+Ip,*2rh%DW5dL@ub$@-,size of entries must be between 4 and 20 ,not accepted,successful
+y-dVB)2i6,ijZB%v8hv*SF,username contains invalid characters,not accepted,successful
+)sYd9Zx%BZvKr)T,-E5_fob2D(S,first character must be alphanumeric ,not accepted,successful
+LnkNIaj3lOmIZ.w,agxJzM0Z*lrS.c,entries are valid,accepted,successful
+Qj,DnSzHe.4hYg,size of entries must be between 4 and 20 ,not accepted,successful
+vW2c,THjj4OZ,entries are valid,accepted,successful
+,7)OqHi0X)ROYHN,first character must be alphanumeric ,not accepted,successful
+HcD*,yqfiE)HC,username contains invalid characters,not accepted,successful
+74WWvlo5n,I)yEeYN18(Q1kLq,entries are valid,accepted,successful
+_Vw18F0VZX,806thZOF8YWdLc7Ok,first character must be alphanumeric ,not accepted,successful
+ 8kdC,HXDkzeeN-$(_,first character must be alphanumeric ,not accepted,successful
+4aljHGs6@.Vg,-%ooxdHb0,username contains invalid characters,not accepted,successful
+FXfiY7LtWt,QDrD,entries are valid,accepted,successful
+msvGywRVptQtnV,wLYB)Iiq3g,entries are valid,accepted,successful
+Hn,H-N,size of entries must be between 4 and 20 ,not accepted,successful
+0T)dq1O1Q_V2MG2KhW,MSVSTGnwAKrvG,username contains invalid characters,not accepted,successful
+TKZ@po,.h%)z1W4YL*55x5,username contains invalid characters,not accepted,successful
+4KQy*_4SmYFC,GoxEKMS(-_,username contains invalid characters,not accepted,successful
+i79l1Dkf0mAx,GT,size of entries must be between 4 and 20 ,not accepted,successful
+S)ioc-49_BLS*P,Wi,size of entries must be between 4 and 20 ,not accepted,successful
+i.cYfn%rx,2bh9K2o7(8B1L,username contains invalid characters,not accepted,successful
+bEZ0jdUq$yY,KaGM_kLOt,username contains invalid characters,not accepted,successful
+7VFTAJbYqLLLI,3b(6SX8wTeqUH3T,entries are valid,accepted,successful
+Oifaz57WayGSi9EO,*_qN1o@zqm%,entries are valid,accepted,successful
+3QU1j6MI,5%CW,entries are valid,accepted,successful
+4N(Bw)DAop8),XlfY2,username contains invalid characters,not accepted,successful
+1q3z1m4Q,z-j(.AC_zTf,entries are valid,accepted,successful
+dxyO5dNhBt,u-*CW,entries are valid,accepted,successful
+gwtt,RC7v)w(ky$30z,entries are valid,accepted,successful
+Y(vgS90aox48rnHGMG,7rEIFZQl1Oo_,username contains invalid characters,not accepted,successful
+V@nB8RW1J4(9k,klo,size of entries must be between 4 and 20 ,not accepted,successful
+,gvyyuRm$rTof9cA(,first character must be alphanumeric ,not accepted,successful
+fCz.pKRyCt3au6ZeZ,feR(TdgN2amtfj,entries are valid,accepted,successful
+fp1GLcaKnVQPW,,size of entries must be between 4 and 20 ,not accepted,successful
+OA$xvsRly,wn,size of entries must be between 4 and 20 ,not accepted,successful
+9txS$l$ocf6Y,hmVXS4P,username contains invalid characters,not accepted,successful
+p(yO41E@1q,,size of entries must be between 4 and 20 ,not accepted,successful
+TJpM$3FaQU,KYed*%W5zAWohM3,username contains invalid characters,not accepted,successful
+I,v,size of entries must be between 4 and 20 ,not accepted,successful
+D-Kn7xte-v(tK,)(-MV3h,username contains invalid characters,not accepted,successful
+6buFc1pMclgt,qZgy @r1(,entries are valid,accepted,successful
+B,MgO,size of entries must be between 4 and 20 ,not accepted,successful
+(9E.QLC*FrUKXhsZNJ,@nc6-9TsOk99kYS,first character must be alphanumeric ,not accepted,successful
+O1UD5bUs6@nJS,MbtBv3vdy,username contains invalid characters,not accepted,successful
+)J_No2tmSJa-xFL8Xr,hz%eAgMldNUH,first character must be alphanumeric ,not accepted,successful
+iz1vl4SFyr*k2L32N,YYsRW*R$,username contains invalid characters,not accepted,successful
+,8M_DRZ6,first character must be alphanumeric ,not accepted,successful
+1%H,YpF.3c,size of entries must be between 4 and 20 ,not accepted,successful
+M%tVa7zAW,AT5p$,username contains invalid characters,not accepted,successful
+6lgF5.NHYV$fSJP*m,Hr_Wo58xoLp,username contains invalid characters,not accepted,successful
+erPbBT9$nJwHepP9W,S3mu@B(evO_p(jEOe,username contains invalid characters,not accepted,successful
+tgLrj*J2,,size of entries must be between 4 and 20 ,not accepted,successful
+ioqT6nCFcp)w,Y%,size of entries must be between 4 and 20 ,not accepted,successful
+ptftjRNB%V%lL%g,pr*WsSshH4pOYK84(o,username contains invalid characters,not accepted,successful
+qhArJF*wG%-D,WGcc@7q)3DpO,username contains invalid characters,not accepted,successful
+5YBGEK0TNM(%.VT@),9GN_eiwUe,username contains invalid characters,not accepted,successful
+J9FX5$YrYBuA,5FK,size of entries must be between 4 and 20 ,not accepted,successful
+nL)AY, HpuYhfkdI1J3,username contains invalid characters,not accepted,successful
+erAX*K,1dGWLL(,username contains invalid characters,not accepted,successful
+OBRlZK,H0hPX9C,entries are valid,accepted,successful
+QzBH6Y,,size of entries must be between 4 and 20 ,not accepted,successful
+NqX5gnsTc@8T,ZleqI_2,username contains invalid characters,not accepted,successful
+czWnd HB,72,size of entries must be between 4 and 20 ,not accepted,successful
+pcD-t@jlRuRv,$po,size of entries must be between 4 and 20 ,not accepted,successful
+jJW(f4sCVF,r_AnZYl,username contains invalid characters,not accepted,successful
+cja5_XWcWk Cc 8G,4LMi0gCNENyu,username contains invalid characters,not accepted,successful
+_j1EyBSA*,e8dG7RraOq_8mQQy,first character must be alphanumeric ,not accepted,successful
+Je.9pKmP_HYMMW,YCLfvVizV1MnlF.pl,entries are valid,accepted,successful
+2  L(xuPq,C*m1,username contains invalid characters,not accepted,successful
+qQsSZwiA0Vq5,VeSeep_)g5,entries are valid,accepted,successful
+4UBxE9iPMS,n,size of entries must be between 4 and 20 ,not accepted,successful
+sa_H$TL4AX,ZZ,size of entries must be between 4 and 20 ,not accepted,successful
+ElUNPqq(.,7SZyIY,username contains invalid characters,not accepted,successful
+q,QCQ,size of entries must be between 4 and 20 ,not accepted,successful
+SiwJR7pH6swCP9rq,V,size of entries must be between 4 and 20 ,not accepted,successful
+@27yGVsre3b,aa1qzpDIj,first character must be alphanumeric ,not accepted,successful
+Aoi_uICAszS(,h,size of entries must be between 4 and 20 ,not accepted,successful
+dqJ @sQv,d87WpuZEVJwJ2O,username contains invalid characters,not accepted,successful
+t1ye,mxl(B93o,entries are valid,accepted,successful
+zA7,,size of entries must be between 4 and 20 ,not accepted,successful
+quj4bne,Y.i5(mzNFkfLF.C,entries are valid,accepted,successful
+P1xdZu6B76-dAa.Oj,XykI4)Vh)1,entries are valid,accepted,successful
+sZ_yw,9iDQC Q42t$,entries are valid,accepted,successful
+$EMLZ7W___,l3dlHH,first character must be alphanumeric ,not accepted,successful
+PFWWuTSpFV4vIfXM,vvAzf,entries are valid,accepted,successful
+uMYqD$3xI17O(,PnDmxK9KGIMQUG*_U9,username contains invalid characters,not accepted,successful
+8BoANzGWUT8H$uBwXt,(Jn@2,username contains invalid characters,not accepted,successful
+JPJoeZ-(u1REc0Uo,ul_.1gwHud9zF6D,username contains invalid characters,not accepted,successful
+T,K.1h(@SazpxZ,size of entries must be between 4 and 20 ,not accepted,successful
+ZlmUqDFx)1qOm%,uIEK,username contains invalid characters,not accepted,successful
+S7hqr3(f,Ha8a66fosQat.*,username contains invalid characters,not accepted,successful
+mL_J_@Ln(7iGnaJY,gOnk%Kj%Ur,username contains invalid characters,not accepted,successful
+os8ajm$K.Ub,,size of entries must be between 4 and 20 ,not accepted,successful
+5CE_2-2YkygT1,I0V0ETtgze,entries are valid,accepted,successful
+D9zNNzoDN3(,_$TUWtF2ozM8ql,username contains invalid characters,not accepted,successful
+FZmOVR3s,mQydN_a_b,entries are valid,accepted,successful
+ewby Yb8hNB,,size of entries must be between 4 and 20 ,not accepted,successful
+1C-p s9jsA,XhuTCBTflMMHDi,username contains invalid characters,not accepted,successful
+DPzr19LqHL,LAu5H3tuo,entries are valid,accepted,successful
+40y$u(Uxmd,dwRpzQ)KV6%T,username contains invalid characters,not accepted,successful
+U_wlGJCIus,w4JMmCeG$ufrwnwF,entries are valid,accepted,successful
+F2*9@Zs.9_,P86(H4%j5yRkNKCHs,username contains invalid characters,not accepted,successful
+ g-Qwn.%QVKD@8vZ*x,Fc_y8FwZ9-INHvVeD%,first character must be alphanumeric ,not accepted,successful
+1M7OyYm5Pk,j-zP*YF3@095ltMtpH,entries are valid,accepted,successful
+Lh,Tg0u.yi8U,size of entries must be between 4 and 20 ,not accepted,successful
+QL,Hd6SGA,size of entries must be between 4 and 20 ,not accepted,successful
+,rGZiZemq.*T2Tl,first character must be alphanumeric ,not accepted,successful
+c*XciSAN*O.QZQx,,size of entries must be between 4 and 20 ,not accepted,successful
+eudyKGsJ5d2Y,xUta3XrsnyF6-f,entries are valid,accepted,successful
+kLD,51,size of entries must be between 4 and 20 ,not accepted,successful
+v,qpDg.Za21J*hC,size of entries must be between 4 and 20 ,not accepted,successful
+j7vjpvo4R@($,9lt5ohP,username contains invalid characters,not accepted,successful
+waS2AI,o.o23nGx,entries are valid,accepted,successful
+u0EC5gsUNtFVJHc,ZaghoMCqLC62,entries are valid,accepted,successful
+cIFFlu7GA*j,VRq7J96SUjGuZHfM6,username contains invalid characters,not accepted,successful
+( @%Ejv evB9*vNb),@BWkqvI5BH9J78cDL(,first character must be alphanumeric ,not accepted,successful
+l9IY*ZqQ0l,FOzyQ6P7eKLgr5qu5,username contains invalid characters,not accepted,successful
+2f2D6WEwEks4JDX,r,size of entries must be between 4 and 20 ,not accepted,successful
+Py,J,size of entries must be between 4 and 20 ,not accepted,successful
+UX2td1%K77,uMx(31Yp%XV0@-S3,username contains invalid characters,not accepted,successful
+MTBOjcNz7$Fh,QW-$t$ZUOb9Ai,username contains invalid characters,not accepted,successful
+,%NCHjA,first character must be alphanumeric ,not accepted,successful
+WjfnF6I_Xh)UUmJu,66d,size of entries must be between 4 and 20 ,not accepted,successful
+.A_.$BaO,7t,first character must be alphanumeric ,not accepted,successful
+*nkVWIw_6h_,Z,first character must be alphanumeric ,not accepted,successful
+,K*%%Iq,first character must be alphanumeric ,not accepted,successful
+nmZtSQ$6oViJW,IK,size of entries must be between 4 and 20 ,not accepted,successful
+nhcZ2.%hg,NZZYbt,username contains invalid characters,not accepted,successful
+lz3O$zXB,Sy(4rq_MkRNM HNrp,username contains invalid characters,not accepted,successful
+TfF)2Hmi7Nazvs,swTMqp.WY9ypi,username contains invalid characters,not accepted,successful
+,iliRKUiOUex$,first character must be alphanumeric ,not accepted,successful
+XpDSEo,XX__XXWT%b.p,entries are valid,accepted,successful
+QpEu,QFdgOs@jmt,entries are valid,accepted,successful
+p M%Oz*,l*3ERm,username contains invalid characters,not accepted,successful
+eo_XK o3,By,size of entries must be between 4 and 20 ,not accepted,successful
+v,cqcvNjjBkoDk,size of entries must be between 4 and 20 ,not accepted,successful
+Ehm-.cP$-XXk3V63,mOmnP-SWYLR29P510T,username contains invalid characters,not accepted,successful
+-X,zI5b-k.I414z6,first character must be alphanumeric ,not accepted,successful
+,(Gbk0vTZ_DMNm4K,first character must be alphanumeric ,not accepted,successful
+@)b6(Xci(y5F,RerOct@-.58y7h,first character must be alphanumeric ,not accepted,successful
+ZgN%wYRtu6y%OhOg,hb$*oc(NJqdHJza8,username contains invalid characters,not accepted,successful
+6IRhN,,size of entries must be between 4 and 20 ,not accepted,successful
+mbLs6Rjd,Huufx A0W,entries are valid,accepted,successful
+,Vq9bvSL(ZXm 2xhmUp,first character must be alphanumeric ,not accepted,successful
+c%6$blAyw,P8b*Aky3,username contains invalid characters,not accepted,successful
+t H(.*U9fxH2z32FRv,,size of entries must be between 4 and 20 ,not accepted,successful
+3qdWfaU3cTLzp8RxZT,b194Q,entries are valid,accepted,successful
+XPhWzq*,SxOXR7kRDlb6Wf,username contains invalid characters,not accepted,successful
+dN8SnbYQh)4qTkZgK3,uAfCOjiRQDV)E_yqb,username contains invalid characters,not accepted,successful
+BQBsxBCF0en,8ma VK,entries are valid,accepted,successful
+ThQV8HS(U$kNtW9ws,YV4rK2w3nDxOhn,username contains invalid characters,not accepted,successful
+-35.,0USrMqo5,first character must be alphanumeric ,not accepted,successful
+8EjNybAY5NHkoM,KUXYZgUGhS_S) (T,entries are valid,accepted,successful
+W)bsmQIYtRmAVr,AS.c,username contains invalid characters,not accepted,successful
+)2t,hL.,first character must be alphanumeric ,not accepted,successful
+7yON@Q924mgthCM%G1,G*khABGeYi3nh,username contains invalid characters,not accepted,successful
+F,B,size of entries must be between 4 and 20 ,not accepted,successful
+h,*ITrlotjR*kXOvUX,size of entries must be between 4 and 20 ,not accepted,successful
+LFgDd,HY_5p,entries are valid,accepted,successful
+Us7paq1k4@_(E.rxy,pYJ7h,username contains invalid characters,not accepted,successful
+(cUFUGDyrGV,wCJvFsijFtI6e%,first character must be alphanumeric ,not accepted,successful
+YC,x(,size of entries must be between 4 and 20 ,not accepted,successful
+b1bk@3ymXzLfhT7_HF,Y2MhZ27)wxhIxlIf,username contains invalid characters,not accepted,successful
+$c 5yaAzov,$IxQprnapclg,first character must be alphanumeric ,not accepted,successful
+RGnS._3YyHv3j*IZGX,jA %v_e8A q%$h0,username contains invalid characters,not accepted,successful
+pzQz ayQzTo,OFaa*xSYFLMb_Q,username contains invalid characters,not accepted,successful
+)  x,Y,first character must be alphanumeric ,not accepted,successful
+,SgAZqxfNJfFv,first character must be alphanumeric ,not accepted,successful
+fZyA.-f(ljxI,mrRayatYYejsX,username contains invalid characters,not accepted,successful
+_xL3f sig70L,bINfs3jMwb1,first character must be alphanumeric ,not accepted,successful
+HVyChkuQY__rUHP3b,gxa%-9i$,entries are valid,accepted,successful
+*merR,*2Ddjndyq,first character must be alphanumeric ,not accepted,successful
+OJ8-k(s@NKN,)mVYX,username contains invalid characters,not accepted,successful
+@rkAx*bNQhVv ,cCSSsVAzlsvD)slC9,first character must be alphanumeric ,not accepted,successful
+2GHx)L0q,5N1,size of entries must be between 4 and 20 ,not accepted,successful
+zOKFjWhpSR,IFeAP*dGgywAsg0VP%,entries are valid,accepted,successful
+7hMe MHekZy7E,(NhNPdNK,username contains invalid characters,not accepted,successful
+jf,.xmk-O,size of entries must be between 4 and 20 ,not accepted,successful
+yPWM9bPqT*fTdE,,size of entries must be between 4 and 20 ,not accepted,successful
+06JntNE tC$*6F7yZ,No7pC1PVp-6Ev29,username contains invalid characters,not accepted,successful
+TX,88szFyX@iq8(Hw,size of entries must be between 4 and 20 ,not accepted,successful
+b$dgrLYHG$K5MA8Oj,cmxhTcu1,username contains invalid characters,not accepted,successful
+0,ijmJ@G,size of entries must be between 4 and 20 ,not accepted,successful
+34is,9Qua5 k.nl)xT9,entries are valid,accepted,successful
+   t*,Dslg 2D($eZf9hmsh,first character must be alphanumeric ,not accepted,successful
+8%--lEvf)YoK,Btd8VMhxS@HNue,username contains invalid characters,not accepted,successful
+jv(65CthbdpUEtt0,-Aa.sY6ez_rIWlQQeI,username contains invalid characters,not accepted,successful
+CvTyXw8RG$5UI0f4._,MEx)pGQAP20gMlz,username contains invalid characters,not accepted,successful
+*q%q,rzYfswJX5wf0QJ,first character must be alphanumeric ,not accepted,successful
+LUWRCeRjh3dF,m8.w0,entries are valid,accepted,successful
+(HF,S0noc)p),first character must be alphanumeric ,not accepted,successful
+CsA,jQH4CT@cI@-DihQ%O,size of entries must be between 4 and 20 ,not accepted,successful
+j1tL@v8WM,9UP,size of entries must be between 4 and 20 ,not accepted,successful
+fkF*o,Dv,size of entries must be between 4 and 20 ,not accepted,successful
+Jj7BPn,XMSH*v%9vK5y@lX,entries are valid,accepted,successful
+R(V5W,8u8kQ5S3UGijKj,username contains invalid characters,not accepted,successful
+E%0,y,size of entries must be between 4 and 20 ,not accepted,successful
+HK0(g_rcp794,d6c26KGOPVD,username contains invalid characters,not accepted,successful
+X2Tj_zwPxY1,Woyl6,entries are valid,accepted,successful
+t,*.ukfMCB(TkS@nC2h-,size of entries must be between 4 and 20 ,not accepted,successful
+dTN9anwodSG_3x,phe7ApwD,entries are valid,accepted,successful
+VXYpYtK(1Tr08,RO h1MaBucFd-oax,username contains invalid characters,not accepted,successful
+(JE,w*,first character must be alphanumeric ,not accepted,successful
+fcJWSrocMfl4s6C-4,yUtS@8_96QfRfrQI,entries are valid,accepted,successful
+2n7DG9J2 6EtEtgx,o)wCCE.Zqav,username contains invalid characters,not accepted,successful
+n56r)gcoE7MO2,b6E-,username contains invalid characters,not accepted,successful
+S_*,jmS)L(t*,size of entries must be between 4 and 20 ,not accepted,successful
+9,XJolEvQwd2,size of entries must be between 4 and 20 ,not accepted,successful
+ _,rhW98W(fkvn3y*G,first character must be alphanumeric ,not accepted,successful
+s5ss,Q@IR,entries are valid,accepted,successful
+z)zSAgql_Sm6G,zVoD.HtI,username contains invalid characters,not accepted,successful
+EEg*mmJrGwoO77,41HXY5MW,username contains invalid characters,not accepted,successful
+KqbVS.r9gi,Lz6v25Qj6Hi,entries are valid,accepted,successful
+@k1hY)*f(EyDQ((Ojm,,first character must be alphanumeric ,not accepted,successful
+B.,wQBXbeR.Q$VO(U,size of entries must be between 4 and 20 ,not accepted,successful
+l. ShAHqC,8XDMVCAcq1,username contains invalid characters,not accepted,successful
+CjNdMd4jDBtWpoR*,v,size of entries must be between 4 and 20 ,not accepted,successful
+mOTS)hJ3z,c,size of entries must be between 4 and 20 ,not accepted,successful
+uGEn$bL6ml%,p  ki,username contains invalid characters,not accepted,successful
+@CAu,H,first character must be alphanumeric ,not accepted,successful
+a_u 6hYLL2vDb,$$YgORv4VGp.yJ v21,username contains invalid characters,not accepted,successful
+es-UukFx*gzfI,Rl4*Ds-Y6,username contains invalid characters,not accepted,successful
+XOh.N_B_,1BbW2f3$nvu(z8,entries are valid,accepted,successful
+Ead,wM,size of entries must be between 4 and 20 ,not accepted,successful
+ENC ,qhar@1z8HrD,username contains invalid characters,not accepted,successful
+h,l)l,size of entries must be between 4 and 20 ,not accepted,successful
+R,c-Z*JMcpf3,size of entries must be between 4 and 20 ,not accepted,successful
+0sxUg)GyL*I17(Nu,,size of entries must be between 4 and 20 ,not accepted,successful
+Q,*(,size of entries must be between 4 and 20 ,not accepted,successful
+WOvUf,(LW5NkKl1dyIakPvJ_,entries are valid,accepted,successful
+qN,3euiF@,size of entries must be between 4 and 20 ,not accepted,successful
+Qq1efOs%C@l.kr4qHG,$iwCP(K8WPy,username contains invalid characters,not accepted,successful
+TlFGyGN)Vgnxi$,Ddc@u%iWAlvk%L25,username contains invalid characters,not accepted,successful
+I58WnW0Wm(,ers9-zbtNaft,username contains invalid characters,not accepted,successful
+%PL*,DgW(m,first character must be alphanumeric ,not accepted,successful
+G8.,,size of entries must be between 4 and 20 ,not accepted,successful
+,t-vqmcb2 ORQ0(@,first character must be alphanumeric ,not accepted,successful
+zi-_a$Bdo6-l%.,dYww,username contains invalid characters,not accepted,successful
+HH%KHrkcq$,ammv(4RQLU)ylHd)b2,username contains invalid characters,not accepted,successful
+Eu_,LzqYLKYr7X*sdzb,size of entries must be between 4 and 20 ,not accepted,successful
+fwE1JLGbpd)FQ,jt-gV,username contains invalid characters,not accepted,successful
+l0mX44J93YMvxk,)xb,size of entries must be between 4 and 20 ,not accepted,successful
+kYt9fO,T_U$0nH4CZ63S8,entries are valid,accepted,successful
+Phvxr,H5K7hB,entries are valid,accepted,successful
+_tteRp1gNMgZ00,*%5.L2,first character must be alphanumeric ,not accepted,successful
+OFmpMC,QBa7u)JS@A,entries are valid,accepted,successful
+QP)@s.5I ,J5Q0n,username contains invalid characters,not accepted,successful
+ yo4WaY0UF5S,LauxkpKA*yb,first character must be alphanumeric ,not accepted,successful
+uys@Sbpc,zqKF_Pt,username contains invalid characters,not accepted,successful
+jT,4vQq,size of entries must be between 4 and 20 ,not accepted,successful
+SxTcNm(Kb4DSVWg4,sTbWQbUjpaenYB_,username contains invalid characters,not accepted,successful
+xLi5eOWQw9dZ5vnlY,fbJofYWw*F,entries are valid,accepted,successful
+$qJhd.Wdu-XUCH,ZHZaZfdkykXajC,first character must be alphanumeric ,not accepted,successful
+Bda*zMK(f0dI(464,iZd5L,username contains invalid characters,not accepted,successful
+hBjRUoSP,-TBm5@SP(KACKn3ZqP,entries are valid,accepted,successful
+yli45vB10yMqwSrHfj,5@P-R$52,entries are valid,accepted,successful
+uZkNmNKKWrulwueP,8O)RTGhM-LE.z-t,entries are valid,accepted,successful
+dC8M,WKx@NEH4IBG,entries are valid,accepted,successful
+Z,KVumDaYylyj0,size of entries must be between 4 and 20 ,not accepted,successful
+@,eksrO1l1d2,first character must be alphanumeric ,not accepted,successful
+j)79rmYe4kRq5,h_vt,username contains invalid characters,not accepted,successful
+sKH8YkV6DhghWj ,N,size of entries must be between 4 and 20 ,not accepted,successful
+2.jI1VrfIqo7,7RJATMTfMhVKnit,entries are valid,accepted,successful
+K$,O,size of entries must be between 4 and 20 ,not accepted,successful
+b,bXO-X,size of entries must be between 4 and 20 ,not accepted,successful
+l$.z)HjCw5%5Sas.0,,size of entries must be between 4 and 20 ,not accepted,successful
+j,g2F3gry5U),size of entries must be between 4 and 20 ,not accepted,successful
+(22K0W-q2,QN1zPh2UpF,first character must be alphanumeric ,not accepted,successful
+dh,iwEk3ma.8,size of entries must be between 4 and 20 ,not accepted,successful
+0r(ojPjljj0A9NmR,sAG_%.D%FSSQzVAS,username contains invalid characters,not accepted,successful
+mav-ixH3kuG,$YHUgJdFSd@xTxXD8,entries are valid,accepted,successful
+CF ,Bk)Xf,size of entries must be between 4 and 20 ,not accepted,successful
+A,cy(8-,size of entries must be between 4 and 20 ,not accepted,successful
+0mk8T,,size of entries must be between 4 and 20 ,not accepted,successful
+%DJv,U4Gt7,first character must be alphanumeric ,not accepted,successful
+%GYp,%h5_y*.TM-X@L,first character must be alphanumeric ,not accepted,successful
+UYUiXYy,FGxS*Ew.ti@,entries are valid,accepted,successful
+fdVikqFJLA7PayM9,T)l-usNPr fIsy,entries are valid,accepted,successful
+4m37GTd*di-j,3 stzw cWP2YNAoNC,username contains invalid characters,not accepted,successful
+*PyKkTHrdAZw*pt,qlAiF*,first character must be alphanumeric ,not accepted,successful
+,G68EuaFc1- oALP5LD,first character must be alphanumeric ,not accepted,successful
+LlB$l*FM$,vX0wAAvis,username contains invalid characters,not accepted,successful
+,t-JwuF PYmk$,first character must be alphanumeric ,not accepted,successful
+Jz7d4()Ya$)L,Q7aoKeT.t$h94SyiF,username contains invalid characters,not accepted,successful
+,ATCi9,first character must be alphanumeric ,not accepted,successful
+,FYK,first character must be alphanumeric ,not accepted,successful
+VtTWzf5 Wq,chgvL-nq%UBYfqP34r,username contains invalid characters,not accepted,successful
+F@_xE,SurqN35Er2BC@sW),username contains invalid characters,not accepted,successful
+10buHfvJHTvtm47y,y,size of entries must be between 4 and 20 ,not accepted,successful
+3Py4sBE2oddMV($,ungPeS,username contains invalid characters,not accepted,successful
+3hMM q,nkfe%BH,username contains invalid characters,not accepted,successful
+6iKUwyJgnN,qt8x2@C,entries are valid,accepted,successful
+L56UrPF,GO@G,entries are valid,accepted,successful
+x3Jhp*TvT$DbdkY2f5,K9,size of entries must be between 4 and 20 ,not accepted,successful
+8R0jsFobK_,mO_(ib 9wJT1P,entries are valid,accepted,successful
+ia@,1)enzUTfSvHJGj,size of entries must be between 4 and 20 ,not accepted,successful
+ag,v8uTzgV4Q,size of entries must be between 4 and 20 ,not accepted,successful
+Z(XQ_()Si1PnOJH,hm240@D5g,username contains invalid characters,not accepted,successful
+ZTaPOgdZFbES0,p$G,size of entries must be between 4 and 20 ,not accepted,successful
+S*$_3sMP,$TsEOmw5rkko67ufEt,username contains invalid characters,not accepted,successful
+9VAAybZSI1Xj$oDw$E,Z*tspO6WyGEoBNzo7x,username contains invalid characters,not accepted,successful
+.(jpDDs1OsWz,allwivUr$rnr,first character must be alphanumeric ,not accepted,successful
+q,5,size of entries must be between 4 and 20 ,not accepted,successful
+.,JatFM7.eRaemnMu*q ,first character must be alphanumeric ,not accepted,successful
+)e$XJT,g)L1M9h2U-,first character must be alphanumeric ,not accepted,successful
+cDDj.0.(,5Ls(4mjt9jY5k.sa_t,username contains invalid characters,not accepted,successful
+0@(,XeVFPE-Nkl(iawO-n$,size of entries must be between 4 and 20 ,not accepted,successful
+VonJ$H(.M8_4a,cWjSg xSoF,username contains invalid characters,not accepted,successful
+OYsf-(k,FqPMG,username contains invalid characters,not accepted,successful
+cFLGsoAy,ugRI9csS$ePpckyc,entries are valid,accepted,successful
+@72@ebQjMM2K9,MZ.E,first character must be alphanumeric ,not accepted,successful
+*R*Ck1.ativs8k,.B,first character must be alphanumeric ,not accepted,successful
+-*dH4$eu9_KI-By,cQwo6.Hn%qp9j565$,first character must be alphanumeric ,not accepted,successful
+5fg@mn5raL9Y_,-R@@WRn,username contains invalid characters,not accepted,successful
+*c3Nuy1g%MAz,yrISMWkf9@8,first character must be alphanumeric ,not accepted,successful
+sclI,bjaZhwu,entries are valid,accepted,successful
+F6MVUpg,rH,size of entries must be between 4 and 20 ,not accepted,successful
+i0N3zX8,6-e,size of entries must be between 4 and 20 ,not accepted,successful
+6hfVNfX,c2$-gDju s$xZ,entries are valid,accepted,successful
+-IeeRXMtjB2BIQiGF,5**$$sA9tPj%jhtOI,first character must be alphanumeric ,not accepted,successful
+hFj3H@Z,vh4BcAcldv*Z9z $4m,username contains invalid characters,not accepted,successful
+y1,,size of entries must be between 4 and 20 ,not accepted,successful
+ 8Lq3giLs2x*c,)N)p2.S15t1t3V35TI,first character must be alphanumeric ,not accepted,successful
+C1lGqh_IP8F(.lcb,,size of entries must be between 4 and 20 ,not accepted,successful
+t,$o565ZLKzl)Ml.V$y2,size of entries must be between 4 and 20 ,not accepted,successful
+$,bB4b d-Jg2W_Z9$D@3,first character must be alphanumeric ,not accepted,successful
+Z.,t21krlQte_P@Gj,size of entries must be between 4 and 20 ,not accepted,successful
+Rj..Gyxm8@_l Y,MjKxnnE$7BlN*wR%,username contains invalid characters,not accepted,successful
+gm)rwApD_O,,size of entries must be between 4 and 20 ,not accepted,successful
+D@B1s,-GtYKP,username contains invalid characters,not accepted,successful
+VYrFgJl%s5B@,)s1Q,username contains invalid characters,not accepted,successful
+pACzVTCS1QxNVm1,B,size of entries must be between 4 and 20 ,not accepted,successful
+AP,z$,size of entries must be between 4 and 20 ,not accepted,successful
+F5LBrMg9i*u5_P_,dCoqm2j1%w2AX,username contains invalid characters,not accepted,successful
+i(Bzs846NzSr$k n,ESRNk,username contains invalid characters,not accepted,successful
+Sl2@,jk-badiR,username contains invalid characters,not accepted,successful
+V-pPmJ)%M,tOm-hilspiX,username contains invalid characters,not accepted,successful
+.g@jT3(o8r7mT,HS(uN f5.9r,first character must be alphanumeric ,not accepted,successful
+5bQpTMzdvOQlbDk,1%aqUD,entries are valid,accepted,successful
+Of)%(Q7gxRk*0Bwt,SrT,size of entries must be between 4 and 20 ,not accepted,successful
+M. H,TznYNghCO),username contains invalid characters,not accepted,successful
+iXRnIL59xYLq$l,0sR26zNTb4T123,username contains invalid characters,not accepted,successful
+NMuLOlum0l(0d,,size of entries must be between 4 and 20 ,not accepted,successful
+av6*tihJxS,r,size of entries must be between 4 and 20 ,not accepted,successful
+KtlFZchY,(6fe.,entries are valid,accepted,successful
+@d9M(U,qOaON-V_9,first character must be alphanumeric ,not accepted,successful
+,asSiCBk,first character must be alphanumeric ,not accepted,successful
+NzDK6ZM.d4.cIui,J6,size of entries must be between 4 and 20 ,not accepted,successful
+kNR089lOuLxdv-,V$PGk,entries are valid,accepted,successful
+VYI(Y@CpCMdXw,)qdTA,username contains invalid characters,not accepted,successful
+YKz3.97rIA,u8f,size of entries must be between 4 and 20 ,not accepted,successful
+9ZDA$L37Y,WwD8C4jbI7Y,username contains invalid characters,not accepted,successful
+1Mu,ww59U1YEjHP$L.V0W,size of entries must be between 4 and 20 ,not accepted,successful
+TCl,RcDQTrX,size of entries must be between 4 and 20 ,not accepted,successful
+d,Y 5,size of entries must be between 4 and 20 ,not accepted,successful
+FbjdB8,M2XKI7rU,entries are valid,accepted,successful
+qtN$jS105n1eEJ,97h$(F(-@,username contains invalid characters,not accepted,successful
+2uF(,HbN5XJWR67sUaC,username contains invalid characters,not accepted,successful
+,bTEEE.vaTmX,first character must be alphanumeric ,not accepted,successful
+al1tA0O,tgig,entries are valid,accepted,successful
+,8neRM,first character must be alphanumeric ,not accepted,successful
+,q,first character must be alphanumeric ,not accepted,successful
+oGZOQ_hO,lNXS*iO,entries are valid,accepted,successful
+yPC8RPiWrX4,)zF,size of entries must be between 4 and 20 ,not accepted,successful
+hav)ekJqUy9)f96,@H.Wieo,username contains invalid characters,not accepted,successful
+,7pvG,first character must be alphanumeric ,not accepted,successful
+f4z-r-%sbKXy3D,.biLIPq0QlhxD0iHnM,username contains invalid characters,not accepted,successful
+6,*Cs d-,size of entries must be between 4 and 20 ,not accepted,successful
+ZzozH1VRz,,size of entries must be between 4 and 20 ,not accepted,successful
+NhAVfB4G6Usl Oh,f)h$Dmi8p5FiLy,username contains invalid characters,not accepted,successful
+HZdYlVfH5,0KEL_FlTC-,entries are valid,accepted,successful
+u3,86@X8c*,size of entries must be between 4 and 20 ,not accepted,successful
+M51*_MhO,OOeQMJkWxxqIb,username contains invalid characters,not accepted,successful
+hKY1CvCwytL,2s8f(,entries are valid,accepted,successful
+H6M5(-J,dF8nN,username contains invalid characters,not accepted,successful
+ii@L_)IC4LYHU,P.A%-V9S1oK,username contains invalid characters,not accepted,successful
+WlOU0JgPxIv,rr1Xt1wL95a6WL,entries are valid,accepted,successful
+*e4 ,@Plu4f.,first character must be alphanumeric ,not accepted,successful
+b4UDQAc()@ufj45,$h9o,username contains invalid characters,not accepted,successful
+BWs858eeuxIa)Xa,E)d5*F4t%oQ (SeV*,username contains invalid characters,not accepted,successful
+edH.5,Ta*zD,entries are valid,accepted,successful
+ABqiAeltUtO9e_G,LUk@m61AA_ElDO.VxN,entries are valid,accepted,successful
+ j%*-8DK,CFATJQyAGH6*R@M48,first character must be alphanumeric ,not accepted,successful
+U 5Vrp,,size of entries must be between 4 and 20 ,not accepted,successful
+Y_9rxiU,,size of entries must be between 4 and 20 ,not accepted,successful
+_1cLZgp_jvi,OCOtWVvj,first character must be alphanumeric ,not accepted,successful
+F,nCIwBPjFogn,size of entries must be between 4 and 20 ,not accepted,successful
+wfYhL%1fKOHBI,WgfrQ$G%UW,username contains invalid characters,not accepted,successful
+Zwn2S ,,size of entries must be between 4 and 20 ,not accepted,successful
+BaugIC,DDB,size of entries must be between 4 and 20 ,not accepted,successful
+rjxPJHRMCvnJK)erU,2Y,size of entries must be between 4 and 20 ,not accepted,successful
+-qGKRjLhkMki0mMPH,,first character must be alphanumeric ,not accepted,successful
+,5k737KaVVMO,first character must be alphanumeric ,not accepted,successful
+xt,KilLGj@$s)Sn%FE,size of entries must be between 4 and 20 ,not accepted,successful
+,IZg BDD*KL,first character must be alphanumeric ,not accepted,successful
+id3oJr6%7JG,hK_0kF,username contains invalid characters,not accepted,successful
+WFwy_am(OeuSg,uXn6,username contains invalid characters,not accepted,successful
+SOm,ILwXD@nhuiTUsTq,size of entries must be between 4 and 20 ,not accepted,successful
+PF.I-sWMR%jqsoq@,anD,size of entries must be between 4 and 20 ,not accepted,successful
+usqQ8XRc5Ksl3,OUR7p(d(D%KHitp,entries are valid,accepted,successful
+H7Kv,N)KqRuq8ZS,entries are valid,accepted,successful
+sebYJ,rIbba5(S_,entries are valid,accepted,successful
+UT2,lmFkNNjzqWYhEpT,size of entries must be between 4 and 20 ,not accepted,successful
+c2s3LWyu@,2qr,size of entries must be between 4 and 20 ,not accepted,successful
+(CCgoO,(6sfdT4SYbR19ZzLt,first character must be alphanumeric ,not accepted,successful
+4(xhA$ 77,_sCDAd,username contains invalid characters,not accepted,successful
+WaKPfpCB,7,size of entries must be between 4 and 20 ,not accepted,successful
+NXlYp O2987*9F,Tw9,size of entries must be between 4 and 20 ,not accepted,successful
+T7x2SlLp5Reh,_tQuzn0eON*bri9k),entries are valid,accepted,successful
+EjCq*6)GhhU$,uv2FsLNk,username contains invalid characters,not accepted,successful
+M8ruSe-50X Z*v7,Ws8jZgT@wB2fyqh,username contains invalid characters,not accepted,successful
+pSV9$,,size of entries must be between 4 and 20 ,not accepted,successful
+1yhr_NP%@-ANL@p6PQ,ngxz9r4csK,username contains invalid characters,not accepted,successful
+QCqYjVfgY(QUldlR,jDaqTuN8 nxJ6,username contains invalid characters,not accepted,successful
+),n7qSbJTrZeC3MR$,first character must be alphanumeric ,not accepted,successful
+(AE3a4-M6wl,P*@EY@,first character must be alphanumeric ,not accepted,successful
+*j8,Rp*2,first character must be alphanumeric ,not accepted,successful
+IQYW8nsanE(uhM,(GSeW,username contains invalid characters,not accepted,successful
+dV84XNbxCQ,z-abDqak44QvnNPzf8,entries are valid,accepted,successful
+Y.5, .@ABhueXdy,size of entries must be between 4 and 20 ,not accepted,successful
+N7XC*PLLU8kMq,CcaoBSO0RP(I_yU ,username contains invalid characters,not accepted,successful
+fE7$fApwZ,o_fBsA64TR-_QmeR,username contains invalid characters,not accepted,successful
+X,@H6D$vOAsw1Z,size of entries must be between 4 and 20 ,not accepted,successful
+L3D Td@E$(Zj*VwuXM,nK$o)5$l8,username contains invalid characters,not accepted,successful
+UF6LTkOy@_FIy7, ,size of entries must be between 4 and 20 ,not accepted,successful
+4*k_a(,1MVnSwAyzuPS5jyXuM,username contains invalid characters,not accepted,successful
+$kRHAwli1hGWM7Ve,qyKP,first character must be alphanumeric ,not accepted,successful
+6ZM63j$(R-Y%tg,-lH,size of entries must be between 4 and 20 ,not accepted,successful
+N,,size of entries must be between 4 and 20 ,not accepted,successful
+%z9Q.tsj4 eL$*P,o,first character must be alphanumeric ,not accepted,successful
+t2IV0CWVb,yl51Rj4UPpE,entries are valid,accepted,successful
+UM7QT3fA3@,@yHf@w(%1Y@8,username contains invalid characters,not accepted,successful
+,vLN5A ,first character must be alphanumeric ,not accepted,successful
+PoD_7V%3Rq*Emjz*S6,li60Uz9CVILNrT1r-,username contains invalid characters,not accepted,successful
+HfrUV%puPRDZAYCJQZ,kPOnQeWywX)@nF(7)P,username contains invalid characters,not accepted,successful
+ONDg1qvMho6xh lC,RDb$xz,username contains invalid characters,not accepted,successful
+AExP2*XSM rju(O*6n,z_E,size of entries must be between 4 and 20 ,not accepted,successful
+MRm8wbf92j,eib,size of entries must be between 4 and 20 ,not accepted,successful
+O7l.0elp65dfdjFIk,qQOH8I4E1,entries are valid,accepted,successful
+,eACu,first character must be alphanumeric ,not accepted,successful
+*hFAWg%JsQ,K$w_irw$dfVC1k9S,first character must be alphanumeric ,not accepted,successful
+,,first character must be alphanumeric ,not accepted,successful
+%-yuzHSfn7,TOm8,first character must be alphanumeric ,not accepted,successful
+*eQK.Zd9n,$CBxEZg-,first character must be alphanumeric ,not accepted,successful
+sdrr_y$wj,dyEDb**lzd2T)fPsw,username contains invalid characters,not accepted,successful
+gsv,c4fAOs,size of entries must be between 4 and 20 ,not accepted,successful
+Ji0-xUsA$TIY$f_r.8,8V1RH*_zZStEwH-,username contains invalid characters,not accepted,successful
+S,5SOpvM(,size of entries must be between 4 and 20 ,not accepted,successful
+NZcaPM,aJOR6ZAk8,entries are valid,accepted,successful
+H3QqHokde,E.@mNG6$6WH$(srF,entries are valid,accepted,successful
+3Z*LBVi_3k(Ir2qOB,5RNndq_,username contains invalid characters,not accepted,successful
+2g2w,7d3Cu6va,entries are valid,accepted,successful
+ovVmpH,2hn-3YyvP.B9b6j6,entries are valid,accepted,successful
+,SGK qGY,first character must be alphanumeric ,not accepted,successful
+CYoKoJY-jbZbK8,7,size of entries must be between 4 and 20 ,not accepted,successful
+z0f2zFX,Pd,size of entries must be between 4 and 20 ,not accepted,successful
+wLVPTxgqUa,BqwnLRexcTKt,entries are valid,accepted,successful
+CYxI6,9eIzkUo1ILeU60V,entries are valid,accepted,successful
+6a,$507IyYKoQBg*,size of entries must be between 4 and 20 ,not accepted,successful
+ jq0kBX,XaE 2DWN3TJF5gaQy5,first character must be alphanumeric ,not accepted,successful
+W-9QYeJNH5-6yb1ysa,()pddP4Suuc6o02,entries are valid,accepted,successful
+b8EVw%kZKPVu7hjfP,j6,size of entries must be between 4 and 20 ,not accepted,successful
+ws-vR(uwqicz,dRgHR35Vl,username contains invalid characters,not accepted,successful
+mb@tOBX@%$@%1)0,XI22llxzh9HFut6o,username contains invalid characters,not accepted,successful
+k*HWoc.EJ,7K,size of entries must be between 4 and 20 ,not accepted,successful
+QkxXmvI5%vaZ2M,,size of entries must be between 4 and 20 ,not accepted,successful
+UXPJcqWEnaw,J,size of entries must be between 4 and 20 ,not accepted,successful
+R)mlqm3td,X,size of entries must be between 4 and 20 ,not accepted,successful
+WD6HR, WrXrP,entries are valid,accepted,successful
+J.d,x)K0@cibaYNY,size of entries must be between 4 and 20 ,not accepted,successful
+%iCClZG$kodG e(rnX,27_su,first character must be alphanumeric ,not accepted,successful
+e56@cb94a,),size of entries must be between 4 and 20 ,not accepted,successful
+pya_,,size of entries must be between 4 and 20 ,not accepted,successful
+B)XW*9i7@,f1PJtm6(zfOAawFl,username contains invalid characters,not accepted,successful
+-dZrLE9*mrJb@D,ADrJ-WmN,first character must be alphanumeric ,not accepted,successful
+9q(xOpr0x@HQNkF5,s8ZHCldOpuqVr8uO7,username contains invalid characters,not accepted,successful
+,LRZFTGmcXxLS6,first character must be alphanumeric ,not accepted,successful
+EPDf5 _,*QUEaPv.EG4k3,username contains invalid characters,not accepted,successful
+k@sM0Rf0oRE,m,size of entries must be between 4 and 20 ,not accepted,successful
+*G-kmO%*BSjyp_,pC-LH,first character must be alphanumeric ,not accepted,successful
+XXOfJg)J9CEEU nny,)(K1a,username contains invalid characters,not accepted,successful
+N9u,gvaoGRr1WuQG,size of entries must be between 4 and 20 ,not accepted,successful
+Z,,size of entries must be between 4 and 20 ,not accepted,successful
+FtaJa.,q,size of entries must be between 4 and 20 ,not accepted,successful
+Z%NGies8,Zi4II ,username contains invalid characters,not accepted,successful
+(hncr,eZ0ZWy9wcJsLjg,first character must be alphanumeric ,not accepted,successful
+kS3as6$Z5y27g9M-vt,)O8-6.GRl%G52g0,username contains invalid characters,not accepted,successful
+*VWPR*68IZ1SV2-,*9cm3),first character must be alphanumeric ,not accepted,successful
+*XM,E,first character must be alphanumeric ,not accepted,successful
+@DD,u*_5q,first character must be alphanumeric ,not accepted,successful
+x88w,z*7 l,entries are valid,accepted,successful
+8L702JjGo0NAE,pe4.Gnt@y01Inl1%T.,entries are valid,accepted,successful
+rFW,MUW(Q,size of entries must be between 4 and 20 ,not accepted,successful
+5X_,,size of entries must be between 4 and 20 ,not accepted,successful
+wLZ* m2IM0L8n,PZDBVvF,username contains invalid characters,not accepted,successful
+rV ni(W3pC.-dHbMw,Qn0kv@JDUPtulS50,username contains invalid characters,not accepted,successful
+,Ijx5)Q.-9Joyb9n,first character must be alphanumeric ,not accepted,successful
+XV1aH91Os2,48toVTLfBUhN9lzSk,entries are valid,accepted,successful
+HuProjRj0j4vE,d%aYWu7Jl X)Fn)ruR,entries are valid,accepted,successful
+_j*yFcGLc(b@fD,*)H*wx5ZpE5,first character must be alphanumeric ,not accepted,successful
+2N la5VB,uWB(aAofLR*%Xa,username contains invalid characters,not accepted,successful
+I8ISV6.e8QNQmm,LHARF@0mkvR4d_PN,entries are valid,accepted,successful
+n*RKa7,ra0$X0QeviXY,username contains invalid characters,not accepted,successful
+_PNA(16CFtq,)-  X9xA 7TJf,first character must be alphanumeric ,not accepted,successful
+J,,size of entries must be between 4 and 20 ,not accepted,successful
+(4OQG.@P1g2V.dds%y,,first character must be alphanumeric ,not accepted,successful
+_.(sbs%o1yy-ZV,,first character must be alphanumeric ,not accepted,successful
+tX1,)1b,size of entries must be between 4 and 20 ,not accepted,successful
+_0_JhdX(WvV(wQf,UaIRDM0mf9FS4o34t@,first character must be alphanumeric ,not accepted,successful
+salbFiuWRKL7$qtbhj,XL6uhh%T_1$_*48,username contains invalid characters,not accepted,successful
+Bw7SEgsysO0c$K),x PJc$m .o,username contains invalid characters,not accepted,successful
+Is$SmTP,HjhgBG_545J@,username contains invalid characters,not accepted,successful
+*UY,VajQ %o,first character must be alphanumeric ,not accepted,successful
+wS@wWuiV9qUy.O, cdNQgzMKIFIj%.v,username contains invalid characters,not accepted,successful
+EmUE2Saz0..6GJ1)J,4*hAyybin2i1*bfv,username contains invalid characters,not accepted,successful
+(ycN,P5j$,first character must be alphanumeric ,not accepted,successful
+aq1R,*JX9JGi,entries are valid,accepted,successful
+qwgeRMgiQW,o(4,size of entries must be between 4 and 20 ,not accepted,successful
+ViCBTOf )U9,0OtdvizjJ2k@W,username contains invalid characters,not accepted,successful
+0$b*Ned$IDX._,bkR((Mcyo%(,username contains invalid characters,not accepted,successful
+b@pvmQ@vjuWZe,9@ h,username contains invalid characters,not accepted,successful
+m sv,1.PCF9,username contains invalid characters,not accepted,successful
+,8K,first character must be alphanumeric ,not accepted,successful
+LZJM8 N,6j9RUxoN@N,username contains invalid characters,not accepted,successful
+PH$WEO,rwWIS0k_PI@bzyZ1e,username contains invalid characters,not accepted,successful
+jpEcxo1N*cc%Bm2iB_,bD0_@,username contains invalid characters,not accepted,successful
+B@uhmqjNOPtw8fOV,k7s-WWni$,username contains invalid characters,not accepted,successful
+(,NlRUhdafdJ)aKHDYs,first character must be alphanumeric ,not accepted,successful
+ V96iE736M,SJP*peKsx6RjU@FfU@,first character must be alphanumeric ,not accepted,successful
+PHCK,XH$Bgre,entries are valid,accepted,successful
+iGlQhDk-YO@7AQnoty,z3iLrTa,username contains invalid characters,not accepted,successful
+gv,7RX07_@l,size of entries must be between 4 and 20 ,not accepted,successful
+S1_8Y%j0U2Heu,dmXQRGFtdrQ66.B.,username contains invalid characters,not accepted,successful
+33 %$Ci_T Zie-M,Z6.,size of entries must be between 4 and 20 ,not accepted,successful
+6hEjs_P5A6H,%l-tL*c_8V,entries are valid,accepted,successful
+-cX0FjOZtv*mnk(T,dUKnvA$E $jW,first character must be alphanumeric ,not accepted,successful
+slqyMr@Q-xFJJOg5,4Nf9Lf%*X*,username contains invalid characters,not accepted,successful
+inNAGHZ7KOpZ,AnMw*(0hXiR(GRr,entries are valid,accepted,successful
+2L@,i$4,size of entries must be between 4 and 20 ,not accepted,successful
+,.URq,first character must be alphanumeric ,not accepted,successful
+y.R92m5H0,DIc2zx(zXnO*fy%FH,entries are valid,accepted,successful
+C,2C$wFTuwKk,size of entries must be between 4 and 20 ,not accepted,successful
+@J41WqDXayHO6k,$q8$YBPHf8k0_TF.Pt,first character must be alphanumeric ,not accepted,successful
+rtk4lo84X5xQRB82$,IU*H$jVcHF-Qkj,username contains invalid characters,not accepted,successful
+otwHwBC,6D-a$UTXJtDAW ,entries are valid,accepted,successful
+Rl2,,size of entries must be between 4 and 20 ,not accepted,successful
+
+Login Testing
+username,password,error,state,test
+abcdef,ghijkl,entries are valid,accepted,successful
+6UURIeKxu72VwAcX1O,isto0d46*,invalid credentials,not accepted,successful
+2IDsR07k8RZh%o,q$IS6N6t,invalid credentials,not accepted,successful
+j99jB9n%*XXex3F,4LNf$6d fK%S.cL3,invalid credentials,not accepted,successful
+BXpYC@r8mUm@a ojNg,8D.snIU9Ru*r7-EFXL7r,invalid credentials,not accepted,successful
+vOK6vArjTeI3,jvCLgJoXSo,invalid credentials,not accepted,successful
+(F0vbj8ig*kaB@*gl,Gu1doQ*,invalid credentials,not accepted,successful
+Y@GsMj*A247cgZVQ,y81Eo39x1@,invalid credentials,not accepted,successful
+Ahkv93kNa,RDO_JP0m ,invalid credentials,not accepted,successful
+x982QjA o%Va,AS7BjYmMp 9 WA_$2,invalid credentials,not accepted,successful
+k1KB@fC5qz,EQNYPr,invalid credentials,not accepted,successful
+Rahul,luhar09,entries are valid,accepted,successful
+R6DM_uRG%()o6.t6)J,g5IQB95LNgF@7U LU,invalid credentials,not accepted,successful
+sVxHTqF-tXbBgkg1(s,DsJqM,invalid credentials,not accepted,successful
+e2KfO),12O_lgueZh,invalid credentials,not accepted,successful
+k9fL9d-9F_ 29,.tG2$u2oiXLFsR,invalid credentials,not accepted,successful
+hsdvf*iNXF3pgeQwwE,xWXEPQ,invalid credentials,not accepted,successful
+TLzDQh5mtnaItKdTM91,WxKQT,invalid credentials,not accepted,successful
+pYJCjjCuTZ$(vOj,psyGKFbuh5JwRz$2nbSk,invalid credentials,not accepted,successful
+W7A11fcn7h*,t %(MxvgA*ksI9Fu%frA,invalid credentials,not accepted,successful
+.qcU%TLQ0.x*0Kcl,JvNKoBjI,invalid credentials,not accepted,successful
+C2fkSiCEuy6vZ (,m)_8s89Fh512,invalid credentials,not accepted,successful
+dVgC,(5qRxx3L2@kzDgWq3,invalid credentials,not accepted,successful
+Rxg-vU5K,a%Pt,invalid credentials,not accepted,successful
+4SjFXS7,ERiCQg0x@VXqyT3l,invalid credentials,not accepted,successful
+mMgxWnJXU4)3HIiGgT,W C(,invalid credentials,not accepted,successful
+FtkInj1Yn8f,cZ($j*(JqP7inZM$63,invalid credentials,not accepted,successful
+9oxmI,bBO3tc e-*ry,invalid credentials,not accepted,successful
+e$.WebsJ,dp.oVfuE,invalid credentials,not accepted,successful
+C) $R-,cer6NL 73oTY,invalid credentials,not accepted,successful
+GgBsbmiT,O6ZDG,invalid credentials,not accepted,successful
+IIh6rzGZA5,ouRHVlytgV%mgpsP)IB,invalid credentials,not accepted,successful
+Shashwat,shashwat0044,entries are valid,accepted,successful
+u09KTz,.f5.-6.lRGHmpkIU34%,invalid credentials,not accepted,successful
+NxAPg)KWYhgGI_g,R6Q.xw)e9D9seHAY.X,invalid credentials,not accepted,successful
+g_t010,)88h$6,invalid credentials,not accepted,successful
+vfMms Z(dRBwA,jM8BzFc7o9,invalid credentials,not accepted,successful
+QF7bJ6u2Df,zYST oi,invalid credentials,not accepted,successful
+yash007,007007&&&,entries are valid,accepted,successful
+n7mzUpxbYg9ZqGkb6_,a5fMb3,invalid credentials,not accepted,successful
+n_1wWep_92f,D4.f5ac-BQ,invalid credentials,not accepted,successful
+fgv%4HZ1U,3TL%9,invalid credentials,not accepted,successful
+yiKeZH9lhH-cs@.,%jWbq,invalid credentials,not accepted,successful
+ohi@jc88O1rJ,tN%e(nOm,invalid credentials,not accepted,successful
+RIUDJFC,bj*-rIVcu7YBCB,invalid credentials,not accepted,successful
+(y*1ki6nHgn RLkq ,A8mvPZjx.(isx$,invalid credentials,not accepted,successful
+iOBh,d QzYnowC2n,invalid credentials,not accepted,successful
+mW3jk-jejQE*w,ZkSP(Rz-BY,invalid credentials,not accepted,successful
+%l1-rZoekNRDoGsTD@ic,$i.Et1@e,invalid credentials,not accepted,successful
+IlXpc(w,1Xo6-99tFzuS$VN30GK0,invalid credentials,not accepted,successful
+INzPi7N%-,AR@ 7,invalid credentials,not accepted,successful
+bdl1hMXgB.vmBi.N,Y65WxTICcKUP(Q8Nl.,invalid credentials,not accepted,successful
+LY8oLV X0oGUO6g,)@Z(iukYu-54),invalid credentials,not accepted,successful
+GmqJvP.Py,KC7pyZOB_o55sYoktTs,invalid credentials,not accepted,successful
+Mii2,%e3G5N7pw$sRA*qm-$2,invalid credentials,not accepted,successful
+oOIz,NN6ODhu,invalid credentials,not accepted,successful
+7s@0o1727ARNASbYiaq,j)I$IrJjl,invalid credentials,not accepted,successful
+XALdQFxN_-w7d9zdR,_Ut.@4fvm27@4rGALe,invalid credentials,not accepted,successful
+lK2fI.t_HCsl,rxfxq0C$MYvIf@lO-,invalid credentials,not accepted,successful
+xnJc*NwKBzRqEd$,mlHtcL_CTS7obkDxrkeI,invalid credentials,not accepted,successful
+$(0eQ87E 46a lQ,Q0vDcR5Bl(%qG8*ikVF,invalid credentials,not accepted,successful
+jEyKT w_swz1,GPH%2)Vi,invalid credentials,not accepted,successful
+)TV*jd,BhK(29D4)$gEN5vnOxf-,invalid credentials,not accepted,successful
+f6GlN,9IqpnirxVkPPNtmk,invalid credentials,not accepted,successful
+V_M1p0rL),qbr.JscHq,invalid credentials,not accepted,successful
+H9dKrnNRjq0QcH,UMSr2VF,invalid credentials,not accepted,successful
+xJ@j,*W)$*n.ioVc(nfLQ,invalid credentials,not accepted,successful
+-F0ADmWlGBsO,b2zu,invalid credentials,not accepted,successful
+ZBFd)4,M2JIoF*,invalid credentials,not accepted,successful
+_phwB,Tzn).v,invalid credentials,not accepted,successful
+hHcq@bkk(o,Zy$3gO-jeQ rIiF,invalid credentials,not accepted,successful
+0o-I4LGwcOBckn,tUc$,invalid credentials,not accepted,successful
+FyFK,F7zA5g4skf41RnArw1BK,invalid credentials,not accepted,successful
+ rjCgQM7,V8mHi2$NQkj@f%JXDO,invalid credentials,not accepted,successful
+)7DYn,Ajz@yyAnNW_CntF,invalid credentials,not accepted,successful
+)R*fyRBtXgB,t4_LI1,invalid credentials,not accepted,successful
+DukBifE,8UE4kqx,invalid credentials,not accepted,successful
+Sm%tp2HEOVM7xv9,EBuUoH8nPZA1DE_s,invalid credentials,not accepted,successful
+( C*ptvAtgnuEksBSQAD,P5O*n1k75d6P.ile$Y,invalid credentials,not accepted,successful
+Radhey,shyam gupta,entries are valid,accepted,successful
+qRBHZvt8m@I,Zqx6mEpz1xr(WX1,invalid credentials,not accepted,successful
+JU8LhJ6,f*WRMa1_NmvO,invalid credentials,not accepted,successful
+C.j3k5R9z782,_qT9 9*xuNAJdPSCUr8@,invalid credentials,not accepted,successful
+u8lPG0,p89fIvtmOf%LI%b%f 1,invalid credentials,not accepted,successful
+BTci- eZ -dHKDK,LAnT@hk_mzZ_b,invalid credentials,not accepted,successful
+jXM)ZtxjL-oAGM(xdsEQ,zix5dwd,invalid credentials,not accepted,successful
+Ktw6T,RAqVrEOaIwXbWyvi,invalid credentials,not accepted,successful
+GIP8nyl,pd9LkUMZ9_oJ,invalid credentials,not accepted,successful
+X)YKg(,hsBiE)Yy-2,invalid credentials,not accepted,successful
+C.v%,wVw)A kedYr,invalid credentials,not accepted,successful
+jyerV*TEfCyerMn,3$X6aW$4Eg*n@Wv.,invalid credentials,not accepted,successful
+jnJ3.UEdh_fqRdVov3,aQG0rpFaEKw*AHk,invalid credentials,not accepted,successful
+LROKHoE0e$N42V-NJN,WROww$citeo (,invalid credentials,not accepted,successful
+Tg2nxw50gY$z.zuG@,RC R7(Vk()gwP9LDx ,invalid credentials,not accepted,successful
+idfaUAggxQV,XZ0Yy5bCO.5-U,invalid credentials,not accepted,successful
+h_MKhVMKT137Z,N9H*DAK_uvFKkk,invalid credentials,not accepted,successful
+RPyilFAhfu,zhNp0p,invalid credentials,not accepted,successful
+1(Usl-$I3ZHK,TNNaxw5GUrlkf,invalid credentials,not accepted,successful
+-9GtSs9dKa),RA7OpbgAMay(vSWwZNS,invalid credentials,not accepted,successful
+fLhOP-D..yb6q1B ,8EQbKo(_CGpP BQaROz,invalid credentials,not accepted,successful
+F Cj,5J4XI%x,invalid credentials,not accepted,successful
+n7fFtBecjBOYh6$x,4BthwBHSqDGD(q_jTqAw,invalid credentials,not accepted,successful
+Pe*l(bhvLDw,0IMYE.,invalid credentials,not accepted,successful
+jnhYWVtXx2z5PPz)W$)S,b0TiHdDkECV2,invalid credentials,not accepted,successful
+jn-bRhr6x-bUZ7)dIA,Cu1jYW0f,invalid credentials,not accepted,successful
+bXIC*MjU.hVHPo,tHkZ3ULle8(1H,invalid credentials,not accepted,successful
+vo%4H3Y2E)z6LDrUGGT,cKcK.,invalid credentials,not accepted,successful
+YLmbjAMGus*,iA5jQ8rM%VCYNfOKBO,invalid credentials,not accepted,successful
+6e3)%xIgKiaE.f%o(3,@g.sF0UftfW3ut,invalid credentials,not accepted,successful
+_mG(r5TCZ,6K4RY63yHV)08y37X,invalid credentials,not accepted,successful
+(T-d.VIlh7tn,iVHlqeZD$9)C,invalid credentials,not accepted,successful
+qOHbl_Lmtpe9uzmDk9(K,.-LCHM*ZON-,invalid credentials,not accepted,successful
+09fvue%,)vgSO,invalid credentials,not accepted,successful
+qZb*rv,VjyENXHD91UU@7G1K ,invalid credentials,not accepted,successful
+o2cJiOjI.gVe,Q9tBB,invalid credentials,not accepted,successful
+xU6tyL%hF,WJ66mXa.FXp*exm,invalid credentials,not accepted,successful
+1$aE,9DEImFJ4,invalid credentials,not accepted,successful
+pskU*Z9$,lib5 FqxVuzuCFIrd,invalid credentials,not accepted,successful
+qw%NB)-U,Y$Dq(hDoV,invalid credentials,not accepted,successful
+MhE03E.,(ADq(Y@dt(9T%R6G0Y26,invalid credentials,not accepted,successful
+9sj2zH-W1uh_eq,g9osYP(zoY,invalid credentials,not accepted,successful
+Z)ThPX_7,xzrViqz9banDqCsS8WK1,invalid credentials,not accepted,successful
+XmUt9pp)CDQL_D8lKE,G2tNVs8N%hBp_S5l,invalid credentials,not accepted,successful
+1c3vBE,R4FkFRbW9,invalid credentials,not accepted,successful
+-kP53z$k%rFQ%dOuR,$.EVtioeE%)*Yp,invalid credentials,not accepted,successful
+p)qT)-3.bfIwgv,VrFSnOtffq_U,invalid credentials,not accepted,successful
+O.fK_LfXMTRxCRP8,x@f332,invalid credentials,not accepted,successful
+Ys6uWZYVtfI,4t@g$Fsf.HglB4,invalid credentials,not accepted,successful
+1w*xF7Z.wCf0L7Q4,YTPV3$_bXe6%D-FhN,invalid credentials,not accepted,successful
+4J%0RrDtw6$C,)dT9rX0quj6m9,invalid credentials,not accepted,successful
+WqsdZ4C8U.M,nwnn,invalid credentials,not accepted,successful
+)oqwy-EN,R-WINfp%Kp,invalid credentials,not accepted,successful
+$8UcJQFoaN,q3ysgO,invalid credentials,not accepted,successful
+TCzga7).(2,kDKNKdCp9Id%AKcdRP,invalid credentials,not accepted,successful
+MUPRm$@zRy,4ID595DLX)@_vy5wC,invalid credentials,not accepted,successful
+zff buX81.O XcMS$7J, a) _cN*Ap,invalid credentials,not accepted,successful
+yh59n U2swps_Osq5,N )KaOBxrv%pl5FnmW,invalid credentials,not accepted,successful
+J%dNZnk(lxDVY%0riH,$b3n@6 mYg9NO,invalid credentials,not accepted,successful
+cy(cUuMrqo4je-,7FXiwiO t))*fCqRL%,invalid credentials,not accepted,successful
+oIb2C2(HHOM,1tSSMWYf1Y,invalid credentials,not accepted,successful
+Qm FiLos)$l1,-EOUY,invalid credentials,not accepted,successful
+6)Qv7v,x$z7,invalid credentials,not accepted,successful
+p_alBELEQnMK,$yFWt0%rAqTOGLMiNmYs,invalid credentials,not accepted,successful
+$-Ly27_Ht-sZ)O2okMv_,Gcj18B,invalid credentials,not accepted,successful
+he-MT7umfRK%T,s2xs7fS),invalid credentials,not accepted,successful
+7(1AqL%oXGK2an2ZlGxF,tA(oz,invalid credentials,not accepted,successful
+UBV2RHY7.-u@,OEFPGChpanp*O5vX,invalid credentials,not accepted,successful
+Lr2j@yXjZpCU,Blfw0Nmt_bq,invalid credentials,not accepted,successful
+Ub9gImDdR,8ogzml*l,invalid credentials,not accepted,successful
+.uaUZWlZ7@iL)US%@,sEAwGEX0ju9eR,invalid credentials,not accepted,successful
+User564,lhga;kjsh,entries are valid,accepted,successful
+9WNre(VXOxMuFPkv -,J8TTjIjqx,invalid credentials,not accepted,successful
+WOI F-FJ,_3CYUOo1qh,invalid credentials,not accepted,successful
+)O8eEly.WSM5berH d,a2pQG7l.-HRyRN*y*XHB,invalid credentials,not accepted,successful
+)$R%ogtNp,KTX4$oRxpKa_E4Y99)@,invalid credentials,not accepted,successful
+t2vv.ew,_o_j,invalid credentials,not accepted,successful
+MLi*6,(HjB,invalid credentials,not accepted,successful
+r1cpAC*Gvzn,T5YnTh,invalid credentials,not accepted,successful
+aq)$n%C0ieHVtG6,e772(KH5% eZAOC.p%r),invalid credentials,not accepted,successful
+-(00(hVkSvIl5,(MRw3Xz9@g3O,invalid credentials,not accepted,successful
+Jl$(6A*5kdYEEBvW@Eu,hXVW0H%p0ujF,invalid credentials,not accepted,successful
+Hacker,spamming,entries are valid,accepted,successful
+aae0QTA58@w_I,TEWitNS,invalid credentials,not accepted,successful
+%8CND,@xCokBwW0GT7Fv5,invalid credentials,not accepted,successful
+lZPR9z,W(*z1i,invalid credentials,not accepted,successful
+cb)R2TGz5DMucxG1k(_Z,da@a3GCW*D-DbH,invalid credentials,not accepted,successful
+ryOACek,oZj.@R_llhj_,invalid credentials,not accepted,successful
+.DefbXgtp,8TDiVeymjZyvmA@x*,invalid credentials,not accepted,successful
+Te Tbi7Q6o(rN_,bp6Xbwk_ Bu)4QJ6L,invalid credentials,not accepted,successful
+9Yx@wLyuNnW o,fR$ $WMQ,invalid credentials,not accepted,successful
+1uVxs*a.ksRGXCj5,%U)Kh3rJ6I,invalid credentials,not accepted,successful
+9udZbLShgm7E.@MR9a,OdvSmyDaMcr0,invalid credentials,not accepted,successful
+81JBg6xRg(,u@nr1,invalid credentials,not accepted,successful
+% VeCKohL9)2J,xw %KiRt_%EgDiH7,invalid credentials,not accepted,successful
+fY.rsFUB(,ITSNCB,invalid credentials,not accepted,successful
+ziupp5)o,A1y4I0Z,invalid credentials,not accepted,successful
+emufnYOqAq,L-qqBiA4.h %,invalid credentials,not accepted,successful
+5rHBRbR0eqTKB,sUyZtSSA,invalid credentials,not accepted,successful
+yHhhMDvFoGKCky1OBi ,SOVWlDT7,invalid credentials,not accepted,successful
+-KBxT8Ag,vRoubugyWDwDv5I4,invalid credentials,not accepted,successful
+VS74JgNM2@z,.uRy1F,invalid credentials,not accepted,successful
+LD 64wi6K3ubGvf,0*mH2REAj-ZxQqf,invalid credentials,not accepted,successful
